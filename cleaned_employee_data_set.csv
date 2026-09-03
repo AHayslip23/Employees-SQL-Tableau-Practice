@@ -1,0 +1,997 @@
+"age","status","join_date","salary","performance_score","remote_work","department","state_name","year","month_year","region","income_level","age_group"
+NULL,"Pending","2023-07-12","51865.3","Poor",True,"HR","Nevada",2023,"Jul 2023","West","Low Income",NULL
+35,"Pending","2021-10-05","66708.02","Good",True,"Admin","Nevada",2021,"Oct 2021","West","Low Income","35-39"
+40,"Active","2022-07-27","93481.15","Poor",False,"HR","Texas",2022,"Jul 2022","South","Medium Income","40+"
+25,"Pending","2021-06-27","59271.96","Excellent",True,"Sales","New York",2021,"Jun 2021","East","Low Income","25-29"
+30,"Active","2022-06-16","108362.15","Excellent",False,"HR","California",2022,"Jun 2022","West","High Income","30-34"
+NULL,"Active","2024-12-03","59400.38","Average",True,"HR","Nevada",2024,"Dec 2024","West","Low Income",NULL
+NULL,"Inactive","2023-05-23","64744.08","Excellent",False,"Admin","California",2023,"May 2023","West","Low Income",NULL
+NULL,"Active","2020-07-08","94399.91","Good",True,"Finance","California",2020,"Jul 2020","West","Medium Income",NULL
+25,"Pending","2021-06-20","61310.74","Average",True,"HR","New York",2021,"Jun 2021","East","Low Income","25-29"
+NULL,"Active","2024-12-13","98371.37","Excellent",False,"Cloud Tech","Texas",2024,"Dec 2024","South","Medium Income",NULL
+35,"Active","2022-05-30","58921.19","Average",True,"Sales","Illinois",2022,"May 2022","Central","Low Income","35-39"
+35,"Active","2023-09-27","57195.55","Excellent",False,"Admin","Nevada",2023,"Sep 2023","West","Low Income","35-39"
+NULL,"Active","2024-11-05","61375.12","Excellent",True,"DevOps","New York",2024,"Nov 2024","East","Low Income",NULL
+40,"Pending","2021-11-11","104767.05","Excellent",False,"Cloud Tech","New York",2021,"Nov 2021","East","High Income","40+"
+35,"Active","2022-02-22","111051.67","Good",False,"Admin","Nevada",2022,"Feb 2022","West","High Income","35-39"
+30,"Inactive","2024-08-07","105674.18","Good",False,"Finance","California",2024,"Aug 2024","West","High Income","30-34"
+30,"Inactive","2024-11-05","54859.45","Average",False,"Finance","California",2024,"Nov 2024","West","Low Income","30-34"
+NULL,"Pending","2021-11-09","115746.6","Excellent",True,"Finance","Nevada",2021,"Nov 2021","West","High Income",NULL
+30,"Active","2020-08-10","91759.99","Excellent",True,"Sales","California",2020,"Aug 2020","West","Medium Income","30-34"
+40,"Active","2022-02-27","112965.33","Good",False,"Sales","Illinois",2022,"Feb 2022","Central","High Income","40+"
+40,"Pending","2023-11-07","100360.1","Excellent",False,"Cloud Tech","Illinois",2023,"Nov 2023","Central","High Income","40+"
+35,"Pending","2021-11-07","93620.88","Good",False,"Finance","Texas",2021,"Nov 2021","South","Medium Income","35-39"
+35,"Pending","2022-04-16","72832.8","Excellent",True,"Sales","California",2022,"Apr 2022","West","Medium Income","35-39"
+30,"Inactive","2023-10-19","102369.42","Average",True,"Finance","Nevada",2023,"Oct 2023","West","High Income","30-34"
+40,"Inactive","2021-08-10","64712.79","Excellent",True,"Sales","Texas",2021,"Aug 2021","South","Low Income","40+"
+NULL,"Active","2022-12-05","64045.36","Poor",True,"DevOps","Nevada",2022,"Dec 2022","West","Low Income",NULL
+40,"Pending","2021-03-13","85782.18","Excellent",True,"Finance","Florida",2021,"Mar 2021","East","Medium Income","40+"
+25,"Pending","2023-07-20","93348.26","Poor",False,"HR","Illinois",2023,"Jul 2023","Central","Medium Income","25-29"
+35,"Active","2020-02-20","53234.96","Good",False,"Admin","New York",2020,"Feb 2020","East","Low Income","35-39"
+40,"Pending","2021-02-02","100284.21","Excellent",False,"Finance","Nevada",2021,"Feb 2021","West","High Income","40+"
+30,"Pending","2020-01-12","112486.19","Excellent",True,"Admin","Nevada",2020,"Jan 2020","West","High Income","30-34"
+40,"Pending","2022-11-26","82518.49","Poor",True,"Admin","New York",2022,"Nov 2022","East","Medium Income","40+"
+40,"Pending","2022-12-23","119152.47","Poor",True,"Admin","Florida",2022,"Dec 2022","East","High Income","40+"
+NULL,"Inactive","2024-08-28","113479.83","Good",False,"DevOps","Illinois",2024,"Aug 2024","Central","High Income",NULL
+40,"Active","2024-09-16","94636.3","Poor",False,"Finance","California",2024,"Sep 2024","West","Medium Income","40+"
+30,"Active","2024-01-01","70000.97","Average",True,"HR","Florida",2024,"Jan 2024","East","Medium Income","30-34"
+NULL,"Active","2021-04-18","76812.47","Poor",False,"Cloud Tech","New York",2021,"Apr 2021","East","Medium Income",NULL
+25,"Inactive","2023-01-16","82614.7","Average",True,"Finance","Florida",2023,"Jan 2023","East","Medium Income","25-29"
+40,"Active","2024-10-20","111645.97","Good",True,"Sales","Nevada",2024,"Oct 2024","West","High Income","40+"
+25,"Inactive","2024-10-13","112414.91","Good",False,"HR","California",2024,"Oct 2024","West","High Income","25-29"
+40,"Inactive","2022-09-21","52031.74","Good",True,"Admin","California",2022,"Sep 2022","West","Low Income","40+"
+30,"Pending","2022-12-29","51887.65","Good",False,"Finance","New York",2022,"Dec 2022","East","Low Income","30-34"
+25,"Active","2024-11-10","82318.89","Good",True,"DevOps","Florida",2024,"Nov 2024","East","Medium Income","25-29"
+35,"Inactive","2021-11-22","103286.08","Average",False,"Admin","Florida",2021,"Nov 2021","East","High Income","35-39"
+35,"Active","2024-03-14","87759.33","Average",False,"Cloud Tech","Florida",2024,"Mar 2024","East","Medium Income","35-39"
+30,"Pending","2020-03-23","102796.32","Good",False,"DevOps","Texas",2020,"Mar 2020","South","High Income","30-34"
+25,"Active","2020-09-15","83149.27","Poor",True,"Sales","New York",2020,"Sep 2020","East","Medium Income","25-29"
+40,"Inactive","2020-12-09","92412.49","Excellent",True,"DevOps","California",2020,"Dec 2020","West","Medium Income","40+"
+30,"Pending","2020-02-22","115022.1","Good",False,"HR","Texas",2020,"Feb 2020","South","High Income","30-34"
+40,"Active","2023-04-27","98343.01","Poor",False,"DevOps","New York",2023,"Apr 2023","East","Medium Income","40+"
+35,"Active","2024-06-18","118869.1","Excellent",True,"DevOps","Illinois",2024,"Jun 2024","Central","High Income","35-39"
+NULL,"Inactive","2020-05-21","85417.26","Good",True,"Finance","Nevada",2020,"May 2020","West","Medium Income",NULL
+40,"Inactive","2023-07-25","112410.25","Good",True,"Cloud Tech","Florida",2023,"Jul 2023","East","High Income","40+"
+40,"Pending","2023-08-25","68905.77","Average",False,"Admin","Nevada",2023,"Aug 2023","West","Low Income","40+"
+40,"Pending","2021-07-03","72561.32","Excellent",True,"Finance","Nevada",2021,"Jul 2021","West","Medium Income","40+"
+35,"Inactive","2023-03-13","92723.22","Excellent",True,"Finance","New York",2023,"Mar 2023","East","Medium Income","35-39"
+40,"Inactive","2021-03-10","74837.75","Poor",False,"HR","New York",2021,"Mar 2021","East","Medium Income","40+"
+NULL,"Pending","2020-01-21","86163.91","Average",True,"DevOps","California",2020,"Jan 2020","West","Medium Income",NULL
+40,"Active","2023-11-15","83326.52","Average",True,"Finance","Illinois",2023,"Nov 2023","Central","Medium Income","40+"
+25,"Active","2022-04-08","98425.1","Average",True,"Cloud Tech","California",2022,"Apr 2022","West","Medium Income","25-29"
+40,"Inactive","2022-05-21","119764.2","Average",False,"Sales","Illinois",2022,"May 2022","Central","High Income","40+"
+40,"Inactive","2021-04-17","58445.91","Excellent",False,"HR","California",2021,"Apr 2021","West","Low Income","40+"
+NULL,"Active","2021-03-19","101702.33","Excellent",False,"DevOps","New York",2021,"Mar 2021","East","High Income",NULL
+35,"Pending","2021-08-21","98819.22","Good",False,"Cloud Tech","Texas",2021,"Aug 2021","South","Medium Income","35-39"
+25,"Inactive","2022-08-19","83509.99","Average",False,"Cloud Tech","Illinois",2022,"Aug 2022","Central","Medium Income","25-29"
+35,"Active","2022-03-31","84422.26","Average",False,"Finance","Texas",2022,"Mar 2022","South","Medium Income","35-39"
+30,"Inactive","2020-06-23","119574.27","Average",True,"Admin","Illinois",2020,"Jun 2020","Central","High Income","30-34"
+NULL,"Active","2024-05-07","86580.08","Good",True,"Sales","Illinois",2024,"May 2024","Central","Medium Income",NULL
+35,"Inactive","2023-03-10","93471.91","Poor",False,"Sales","Florida",2023,"Mar 2023","East","Medium Income","35-39"
+30,"Inactive","2023-09-14","55683.12","Poor",True,"DevOps","New York",2023,"Sep 2023","East","Low Income","30-34"
+30,"Inactive","2023-11-12","91566.78","Good",True,"Cloud Tech","Florida",2023,"Nov 2023","East","Medium Income","30-34"
+35,"Pending","2024-10-26","81782.19","Good",False,"DevOps","California",2024,"Oct 2024","West","Medium Income","35-39"
+30,"Active","2024-06-11","71532.83","Good",True,"Cloud Tech","Texas",2024,"Jun 2024","South","Medium Income","30-34"
+40,"Pending","2021-09-14","98981.36","Good",True,"Cloud Tech","Florida",2021,"Sep 2021","East","Medium Income","40+"
+40,"Active","2024-12-26","80242.01","Good",True,"Cloud Tech","Illinois",2024,"Dec 2024","Central","Medium Income","40+"
+25,"Pending","2024-09-08","110236.18","Average",True,"Cloud Tech","New York",2024,"Sep 2024","East","High Income","25-29"
+35,"Active","2022-08-21","86327.47","Average",False,"Sales","Texas",2022,"Aug 2022","South","Medium Income","35-39"
+30,"Pending","2024-07-25","84420.81","Average",False,"Sales","Florida",2024,"Jul 2024","East","Medium Income","30-34"
+40,"Pending","2020-08-02","110041.32","Average",False,"HR","California",2020,"Aug 2020","West","High Income","40+"
+35,"Pending","2020-03-16","81837.81","Good",True,"DevOps","Florida",2020,"Mar 2020","East","Medium Income","35-39"
+25,"Active","2023-09-08","110855.72","Poor",False,"Finance","Illinois",2023,"Sep 2023","Central","High Income","25-29"
+30,"Pending","2024-03-29","84894.52","Excellent",True,"Sales","California",2024,"Mar 2024","West","Medium Income","30-34"
+30,"Active","2021-08-12","80668.13","Good",True,"HR","Illinois",2021,"Aug 2021","Central","Medium Income","30-34"
+25,"Active","2023-12-24","61086.47","Excellent",True,"DevOps","Illinois",2023,"Dec 2023","Central","Low Income","25-29"
+25,"Inactive","2020-08-28","95339.68","Poor",True,"Admin","Texas",2020,"Aug 2020","South","Medium Income","25-29"
+NULL,"Inactive","2024-09-05","83774.97","Average",False,"DevOps","California",2024,"Sep 2024","West","Medium Income",NULL
+NULL,"Active","2023-05-12","85576.86","Poor",False,"Admin","Florida",2023,"May 2023","East","Medium Income",NULL
+35,"Pending","2021-07-01","107438.46","Good",True,"Finance","California",2021,"Jul 2021","West","High Income","35-39"
+NULL,"Inactive","2024-11-07","60401.68","Average",False,"Sales","Nevada",2024,"Nov 2024","West","Low Income",NULL
+35,"Inactive","2022-07-21","115299.66","Good",True,"Sales","Illinois",2022,"Jul 2022","Central","High Income","35-39"
+NULL,"Inactive","2020-03-30","72272.34","Average",False,"Finance","New York",2020,"Mar 2020","East","Medium Income",NULL
+40,"Active","2022-10-11","117537.71","Excellent",False,"DevOps","Nevada",2022,"Oct 2022","West","High Income","40+"
+25,"Pending","2022-07-24","51074.33","Excellent",True,"Finance","Texas",2022,"Jul 2022","South","Low Income","25-29"
+25,"Inactive","2023-06-30","98489.32","Excellent",False,"Finance","California",2023,"Jun 2023","West","Medium Income","25-29"
+NULL,"Pending","2024-01-11","112120.71","Poor",True,"Finance","California",2024,"Jan 2024","West","High Income",NULL
+NULL,"Pending","2023-11-02","114465.04","Good",False,"Cloud Tech","New York",2023,"Nov 2023","East","High Income",NULL
+40,"Pending","2024-11-22","57035.51","Poor",True,"Cloud Tech","Nevada",2024,"Nov 2024","West","Low Income","40+"
+25,"Active","2021-08-23","75092.43","Excellent",True,"Cloud Tech","California",2021,"Aug 2021","West","Medium Income","25-29"
+NULL,"Pending","2024-06-11","62603.98","Good",False,"Finance","Illinois",2024,"Jun 2024","Central","Low Income",NULL
+NULL,"Inactive","2023-04-09","60018.24","Excellent",False,"DevOps","New York",2023,"Apr 2023","East","Low Income",NULL
+40,"Active","2024-07-05","82567.73","Poor",True,"HR","Nevada",2024,"Jul 2024","West","Medium Income","40+"
+25,"Pending","2021-09-04","94725.71","Poor",False,"Finance","California",2021,"Sep 2021","West","Medium Income","25-29"
+40,"Inactive","2024-10-13","83824.56","Poor",False,"HR","New York",2024,"Oct 2024","East","Medium Income","40+"
+NULL,"Inactive","2020-02-14","118456.11","Excellent",True,"HR","Nevada",2020,"Feb 2020","West","High Income",NULL
+25,"Pending","2020-04-10","113743.19","Good",True,"Sales","Nevada",2020,"Apr 2020","West","High Income","25-29"
+30,"Active","2023-07-27","63309.24","Good",False,"Sales","California",2023,"Jul 2023","West","Low Income","30-34"
+25,"Active","2021-09-24","105202.73","Excellent",True,"DevOps","Nevada",2021,"Sep 2021","West","High Income","25-29"
+30,"Inactive","2024-03-10","79085.22","Good",True,"Cloud Tech","California",2024,"Mar 2024","West","Medium Income","30-34"
+NULL,"Active","2021-06-10","113983.43","Excellent",True,"Sales","California",2021,"Jun 2021","West","High Income",NULL
+35,"Active","2020-10-15","102790.6","Good",False,"Cloud Tech","Florida",2020,"Oct 2020","East","High Income","35-39"
+NULL,"Inactive","2020-01-29","68512.1","Average",False,"HR","Texas",2020,"Jan 2020","South","Low Income",NULL
+35,"Pending","2022-01-30","57584.23","Average",True,"Sales","Florida",2022,"Jan 2022","East","Low Income","35-39"
+NULL,"Pending","2021-03-29","95335.67","Poor",False,"Sales","California",2021,"Mar 2021","West","Medium Income",NULL
+35,"Active","2020-10-13","53174.28","Average",True,"DevOps","Florida",2020,"Oct 2020","East","Low Income","35-39"
+25,"Pending","2020-10-04","77205.21","Average",False,"Cloud Tech","New York",2020,"Oct 2020","East","Medium Income","25-29"
+NULL,"Active","2024-12-18","79041.92","Average",True,"DevOps","Nevada",2024,"Dec 2024","West","Medium Income",NULL
+NULL,"Active","2023-11-14","75937.1","Excellent",True,"Finance","California",2023,"Nov 2023","West","Medium Income",NULL
+35,"Inactive","2023-01-20","113118.73","Average",False,"Cloud Tech","Nevada",2023,"Jan 2023","West","High Income","35-39"
+40,"Active","2024-10-02","107693.38","Average",True,"HR","New York",2024,"Oct 2024","East","High Income","40+"
+NULL,"Inactive","2021-05-13","119217.46","Poor",False,"Cloud Tech","Texas",2021,"May 2021","South","High Income",NULL
+25,"Pending","2021-03-18","106913.71","Average",False,"Sales","New York",2021,"Mar 2021","East","High Income","25-29"
+NULL,"Active","2020-09-23","87815.08","Average",True,"Cloud Tech","California",2020,"Sep 2020","West","Medium Income",NULL
+25,"Inactive","2024-06-05","105190.21","Good",True,"Admin","Texas",2024,"Jun 2024","South","High Income","25-29"
+30,"Active","2024-02-28","79467.24","Poor",False,"HR","Texas",2024,"Feb 2024","South","Medium Income","30-34"
+40,"Pending","2023-04-30","57633.78","Poor",True,"Finance","California",2023,"Apr 2023","West","Low Income","40+"
+NULL,"Pending","2020-03-04","54257.78","Poor",True,"HR","Florida",2020,"Mar 2020","East","Low Income",NULL
+40,"Inactive","2023-12-29","113679.06","Poor",True,"DevOps","Texas",2023,"Dec 2023","South","High Income","40+"
+35,"Active","2020-09-15","69251.12","Poor",True,"Sales","New York",2020,"Sep 2020","East","Low Income","35-39"
+40,"Inactive","2022-07-18","85388.58","Poor",True,"Sales","Illinois",2022,"Jul 2022","Central","Medium Income","40+"
+NULL,"Inactive","2022-07-13","112166.37","Excellent",False,"DevOps","New York",2022,"Jul 2022","East","High Income",NULL
+40,"Active","2021-10-02","79873.48","Average",False,"Finance","Nevada",2021,"Oct 2021","West","Medium Income","40+"
+30,"Active","2020-07-05","108224.03","Poor",True,"DevOps","Florida",2020,"Jul 2020","East","High Income","30-34"
+35,"Active","2023-04-16","116963.72","Average",True,"Admin","Illinois",2023,"Apr 2023","Central","High Income","35-39"
+40,"Inactive","2024-11-12","114109.06","Average",True,"HR","Nevada",2024,"Nov 2024","West","High Income","40+"
+NULL,"Active","2023-03-29","85518.88","Excellent",False,"HR","California",2023,"Mar 2023","West","Medium Income",NULL
+30,"Pending","2022-01-22","58041.97","Poor",True,"Cloud Tech","California",2022,"Jan 2022","West","Low Income","30-34"
+40,"Pending","2023-10-14","94988.94","Good",False,"Sales","Illinois",2023,"Oct 2023","Central","Medium Income","40+"
+25,"Pending","2024-04-10","71628.93","Excellent",False,"Admin","California",2024,"Apr 2024","West","Medium Income","25-29"
+30,"Pending","2022-03-31","54870.98","Good",False,"Admin","Illinois",2022,"Mar 2022","Central","Low Income","30-34"
+25,"Active","2022-02-09","79388.27","Average",True,"DevOps","Illinois",2022,"Feb 2022","Central","Medium Income","25-29"
+35,"Pending","2023-05-06","55946.99","Average",False,"DevOps","California",2023,"May 2023","West","Low Income","35-39"
+NULL,"Active","2021-07-11","81017.91","Excellent",True,"Cloud Tech","Nevada",2021,"Jul 2021","West","Medium Income",NULL
+40,"Pending","2020-08-21","74162.1","Excellent",False,"HR","New York",2020,"Aug 2020","East","Medium Income","40+"
+NULL,"Active","2021-03-27","77668.44","Good",True,"DevOps","California",2021,"Mar 2021","West","Medium Income",NULL
+30,"Active","2024-04-14","67886.37","Poor",False,"HR","New York",2024,"Apr 2024","East","Low Income","30-34"
+40,"Active","2020-09-21","76614.52","Good",True,"DevOps","Florida",2020,"Sep 2020","East","Medium Income","40+"
+25,"Active","2022-06-12","51311.91","Excellent",False,"Finance","Nevada",2022,"Jun 2022","West","Low Income","25-29"
+NULL,"Inactive","2023-12-24","94809.92","Good",True,"Finance","Illinois",2023,"Dec 2023","Central","Medium Income",NULL
+25,"Pending","2022-07-31","108241.81","Excellent",True,"HR","New York",2022,"Jul 2022","East","High Income","25-29"
+40,"Inactive","2023-04-21","78031.49","Good",True,"Cloud Tech","New York",2023,"Apr 2023","East","Medium Income","40+"
+35,"Active","2020-06-05","85733.83","Excellent",True,"Admin","California",2020,"Jun 2020","West","Medium Income","35-39"
+35,"Pending","2024-07-27","60338.29","Excellent",False,"HR","Nevada",2024,"Jul 2024","West","Low Income","35-39"
+30,"Active","2024-04-05","103140.67","Excellent",False,"Admin","Illinois",2024,"Apr 2024","Central","High Income","30-34"
+40,"Inactive","2023-10-26","114690.8","Poor",True,"Sales","Illinois",2023,"Oct 2023","Central","High Income","40+"
+35,"Active","2022-08-18","80954.56","Good",False,"Admin","Florida",2022,"Aug 2022","East","Medium Income","35-39"
+NULL,"Pending","2020-05-31","71728.55","Good",True,"Cloud Tech","California",2020,"May 2020","West","Medium Income",NULL
+35,"Pending","2024-11-04","118415.8","Good",True,"HR","Texas",2024,"Nov 2024","South","High Income","35-39"
+40,"Pending","2020-03-25","81481.36","Excellent",False,"Sales","Illinois",2020,"Mar 2020","Central","Medium Income","40+"
+35,"Pending","2020-11-04","117040.57","Good",True,"Sales","Florida",2020,"Nov 2020","East","High Income","35-39"
+25,"Active","2020-03-21","67342.06","Good",True,"Sales","Nevada",2020,"Mar 2020","West","Low Income","25-29"
+NULL,"Active","2022-01-15","76099.64","Excellent",False,"Sales","Illinois",2022,"Jan 2022","Central","Medium Income",NULL
+35,"Active","2024-06-04","94162.06","Average",True,"DevOps","Illinois",2024,"Jun 2024","Central","Medium Income","35-39"
+25,"Inactive","2021-08-04","67639.7","Excellent",True,"Sales","Nevada",2021,"Aug 2021","West","Low Income","25-29"
+35,"Pending","2020-10-16","114172.25","Good",True,"Cloud Tech","Illinois",2020,"Oct 2020","Central","High Income","35-39"
+30,"Active","2021-09-26","89124.54","Excellent",True,"Sales","Nevada",2021,"Sep 2021","West","Medium Income","30-34"
+30,"Pending","2023-11-04","113871.36","Average",False,"DevOps","Nevada",2023,"Nov 2023","West","High Income","30-34"
+NULL,"Inactive","2021-09-24","62618.4","Excellent",False,"HR","Texas",2021,"Sep 2021","South","Low Income",NULL
+30,"Active","2020-06-07","70705.45","Good",False,"Admin","New York",2020,"Jun 2020","East","Medium Income","30-34"
+35,"Pending","2022-02-10","60797.69","Average",True,"Sales","New York",2022,"Feb 2022","East","Low Income","35-39"
+40,"Inactive","2023-10-17","100371","Poor",True,"Cloud Tech","Florida",2023,"Oct 2023","East","High Income","40+"
+40,"Active","2021-09-25","117591.76","Good",False,"Admin","Illinois",2021,"Sep 2021","Central","High Income","40+"
+35,"Inactive","2022-08-03","103860.7","Average",True,"DevOps","Illinois",2022,"Aug 2022","Central","High Income","35-39"
+30,"Active","2024-11-22","67500.22","Average",True,"Admin","Illinois",2024,"Nov 2024","Central","Low Income","30-34"
+NULL,"Pending","2024-10-09","58727.44","Poor",True,"Cloud Tech","Nevada",2024,"Oct 2024","West","Low Income",NULL
+35,"Active","2024-08-28","80623.08","Excellent",True,"Finance","Illinois",2024,"Aug 2024","Central","Medium Income","35-39"
+40,"Inactive","2020-04-19","77751.78","Excellent",False,"HR","Texas",2020,"Apr 2020","South","Medium Income","40+"
+25,"Active","2021-10-14","115157.81","Good",False,"HR","New York",2021,"Oct 2021","East","High Income","25-29"
+30,"Inactive","2024-08-26","83071.85","Poor",False,"Admin","Texas",2024,"Aug 2024","South","Medium Income","30-34"
+40,"Active","2020-02-08","67914.67","Excellent",True,"Sales","Texas",2020,"Feb 2020","South","Low Income","40+"
+25,"Inactive","2020-09-06","53342.46","Poor",False,"HR","New York",2020,"Sep 2020","East","Low Income","25-29"
+25,"Pending","2023-01-02","51150.47","Excellent",False,"Cloud Tech","Florida",2023,"Jan 2023","East","Low Income","25-29"
+30,"Active","2023-06-13","74697.12","Average",True,"HR","Florida",2023,"Jun 2023","East","Medium Income","30-34"
+25,"Active","2022-12-13","88085.74","Excellent",True,"Sales","California",2022,"Dec 2022","West","Medium Income","25-29"
+40,"Pending","2022-03-03","118672.76","Poor",False,"Finance","Texas",2022,"Mar 2022","South","High Income","40+"
+35,"Active","2024-02-10","95997.31","Average",False,"Cloud Tech","California",2024,"Feb 2024","West","Medium Income","35-39"
+30,"Pending","2021-11-24","106945.62","Average",False,"Cloud Tech","California",2021,"Nov 2021","West","High Income","30-34"
+40,"Active","2020-05-09","100123.15","Average",False,"DevOps","New York",2020,"May 2020","East","High Income","40+"
+35,"Active","2024-12-19","52933.42","Poor",True,"Admin","Texas",2024,"Dec 2024","South","Low Income","35-39"
+NULL,"Active","2024-03-22","95283.03","Good",False,"Finance","California",2024,"Mar 2024","West","Medium Income",NULL
+35,"Inactive","2022-06-13","112264.06","Good",False,"HR","Texas",2022,"Jun 2022","South","High Income","35-39"
+35,"Pending","2022-10-15","75714.28","Good",True,"Admin","Florida",2022,"Oct 2022","East","Medium Income","35-39"
+25,"Active","2022-05-31","92171.73","Poor",False,"DevOps","Florida",2022,"May 2022","East","Medium Income","25-29"
+35,"Inactive","2023-09-15","70694.8","Average",True,"Cloud Tech","Texas",2023,"Sep 2023","South","Medium Income","35-39"
+30,"Inactive","2022-07-04","52964.86","Good",True,"DevOps","Florida",2022,"Jul 2022","East","Low Income","30-34"
+NULL,"Pending","2024-06-08","116353.31","Poor",True,"Finance","California",2024,"Jun 2024","West","High Income",NULL
+35,"Pending","2020-11-23","116695.26","Good",False,"Sales","Nevada",2020,"Nov 2020","West","High Income","35-39"
+25,"Active","2024-05-13","95161.4","Excellent",False,"Admin","Texas",2024,"May 2024","South","Medium Income","25-29"
+NULL,"Inactive","2022-01-29","76040.94","Good",True,"Admin","Nevada",2022,"Jan 2022","West","Medium Income",NULL
+NULL,"Inactive","2023-08-23","69508.28","Good",False,"HR","Florida",2023,"Aug 2023","East","Low Income",NULL
+30,"Inactive","2023-02-24","58243.27","Average",False,"Finance","Illinois",2023,"Feb 2023","Central","Low Income","30-34"
+30,"Pending","2022-10-02","64012.48","Poor",True,"Sales","California",2022,"Oct 2022","West","Low Income","30-34"
+40,"Inactive","2020-06-28","106735.93","Average",True,"Admin","Nevada",2020,"Jun 2020","West","High Income","40+"
+35,"Pending","2023-01-15","70325.36","Average",False,"DevOps","Texas",2023,"Jan 2023","South","Medium Income","35-39"
+30,"Active","2020-09-05","118959.28","Average",True,"HR","Illinois",2020,"Sep 2020","Central","High Income","30-34"
+40,"Pending","2023-03-18","75823.78","Average",False,"Cloud Tech","California",2023,"Mar 2023","West","Medium Income","40+"
+NULL,"Inactive","2022-03-26","119971.65","Average",False,"Cloud Tech","Texas",2022,"Mar 2022","South","High Income",NULL
+40,"Active","2021-10-11","94963.7","Good",False,"Sales","Texas",2021,"Oct 2021","South","Medium Income","40+"
+30,"Pending","2021-01-07","103744.71","Average",False,"Sales","Nevada",2021,"Jan 2021","West","High Income","30-34"
+25,"Inactive","2020-12-03","61337.69","Average",True,"Sales","New York",2020,"Dec 2020","East","Low Income","25-29"
+35,"Active","2021-05-28","63741.13","Poor",True,"Sales","California",2021,"May 2021","West","Low Income","35-39"
+30,"Pending","2022-12-28","56539.99","Excellent",True,"DevOps","California",2022,"Dec 2022","West","Low Income","30-34"
+30,"Pending","2023-05-24","73633.37","Good",True,"DevOps","Illinois",2023,"May 2023","Central","Medium Income","30-34"
+25,"Pending","2024-04-28","90373.99","Good",False,"Cloud Tech","Texas",2024,"Apr 2024","South","Medium Income","25-29"
+NULL,"Inactive","2024-12-25","93901.48","Good",False,"DevOps","Texas",2024,"Dec 2024","South","Medium Income",NULL
+40,"Inactive","2021-09-01","81748.09","Average",True,"Admin","Nevada",2021,"Sep 2021","West","Medium Income","40+"
+40,"Inactive","2021-02-21","73813.48","Average",False,"Finance","Florida",2021,"Feb 2021","East","Medium Income","40+"
+35,"Inactive","2022-11-20","89315.59","Average",False,"Finance","New York",2022,"Nov 2022","East","Medium Income","35-39"
+25,"Active","2020-10-15","56776.82","Poor",False,"HR","Florida",2020,"Oct 2020","East","Low Income","25-29"
+NULL,"Active","2024-07-24","72920.51","Excellent",True,"Finance","New York",2024,"Jul 2024","East","Medium Income",NULL
+30,"Pending","2022-08-14","84913.18","Average",True,"Admin","Florida",2022,"Aug 2022","East","Medium Income","30-34"
+25,"Inactive","2021-05-08","65060.11","Excellent",True,"Finance","Illinois",2021,"May 2021","Central","Low Income","25-29"
+35,"Pending","2023-10-09","82941.08","Poor",False,"Finance","Illinois",2023,"Oct 2023","Central","Medium Income","35-39"
+40,"Pending","2022-01-19","103469.97","Good",True,"Admin","California",2022,"Jan 2022","West","High Income","40+"
+25,"Active","2022-01-12","88725.6","Average",True,"Sales","Illinois",2022,"Jan 2022","Central","Medium Income","25-29"
+NULL,"Pending","2023-06-05","58316.77","Excellent",True,"HR","Illinois",2023,"Jun 2023","Central","Low Income",NULL
+35,"Inactive","2024-03-26","60098.72","Excellent",True,"HR","Illinois",2024,"Mar 2024","Central","Low Income","35-39"
+NULL,"Active","2020-10-07","99951.43","Average",True,"Cloud Tech","Texas",2020,"Oct 2020","South","Medium Income",NULL
+30,"Active","2021-11-02","115195.81","Good",True,"Sales","Illinois",2021,"Nov 2021","Central","High Income","30-34"
+NULL,"Pending","2021-11-19","85512.05","Good",False,"DevOps","California",2021,"Nov 2021","West","Medium Income",NULL
+NULL,"Active","2022-01-24","73186.77","Good",False,"HR","Florida",2022,"Jan 2022","East","Medium Income",NULL
+25,"Active","2022-12-09","94031.77","Excellent",True,"Sales","Florida",2022,"Dec 2022","East","Medium Income","25-29"
+30,"Active","2023-03-18","116374.36","Excellent",False,"DevOps","New York",2023,"Mar 2023","East","High Income","30-34"
+40,"Active","2022-04-25","98335.02","Excellent",False,"HR","Florida",2022,"Apr 2022","East","Medium Income","40+"
+25,"Pending","2021-02-28","89262.07","Poor",True,"DevOps","New York",2021,"Feb 2021","East","Medium Income","25-29"
+NULL,"Active","2022-07-30","113848.69","Excellent",True,"Finance","California",2022,"Jul 2022","West","High Income",NULL
+35,"Active","2021-05-19","69530.45","Poor",True,"Sales","Florida",2021,"May 2021","East","Low Income","35-39"
+35,"Pending","2023-12-14","84230.22","Good",True,"DevOps","New York",2023,"Dec 2023","East","Medium Income","35-39"
+35,"Pending","2023-01-17","76578.59","Average",False,"Cloud Tech","Illinois",2023,"Jan 2023","Central","Medium Income","35-39"
+30,"Inactive","2024-01-02","55532.06","Excellent",True,"HR","Texas",2024,"Jan 2024","South","Low Income","30-34"
+40,"Pending","2021-07-09","115311.68","Excellent",True,"Admin","New York",2021,"Jul 2021","East","High Income","40+"
+25,"Pending","2021-05-05","66972.06","Good",True,"Sales","Nevada",2021,"May 2021","West","Low Income","25-29"
+30,"Inactive","2021-11-07","100215.06","Average",True,"Cloud Tech","Texas",2021,"Nov 2021","South","High Income","30-34"
+25,"Inactive","2023-08-30","115452.25","Poor",False,"Sales","New York",2023,"Aug 2023","East","High Income","25-29"
+30,"Inactive","2023-08-15","54141.38","Average",False,"HR","California",2023,"Aug 2023","West","Low Income","30-34"
+NULL,"Active","2020-12-24","79251.95","Good",False,"DevOps","Nevada",2020,"Dec 2020","West","Medium Income",NULL
+40,"Pending","2024-11-21","114822.78","Good",True,"Finance","New York",2024,"Nov 2024","East","High Income","40+"
+35,"Active","2021-11-17","69919.32","Average",True,"Sales","Illinois",2021,"Nov 2021","Central","Low Income","35-39"
+30,"Inactive","2021-01-29","106616.97","Poor",False,"Sales","Florida",2021,"Jan 2021","East","High Income","30-34"
+35,"Active","2024-02-17","73597.85","Poor",True,"DevOps","New York",2024,"Feb 2024","East","Medium Income","35-39"
+30,"Inactive","2024-08-20","79939.23","Excellent",True,"Sales","Nevada",2024,"Aug 2024","West","Medium Income","30-34"
+30,"Inactive","2021-09-10","90772.25","Average",False,"Finance","California",2021,"Sep 2021","West","Medium Income","30-34"
+35,"Active","2023-09-29","58275.74","Good",False,"DevOps","New York",2023,"Sep 2023","East","Low Income","35-39"
+NULL,"Pending","2020-08-28","94709.79","Excellent",False,"DevOps","California",2020,"Aug 2020","West","Medium Income",NULL
+NULL,"Active","2022-09-06","60722.99","Excellent",True,"Admin","New York",2022,"Sep 2022","East","Low Income",NULL
+40,"Inactive","2024-03-31","87626.24","Good",True,"DevOps","Illinois",2024,"Mar 2024","Central","Medium Income","40+"
+30,"Active","2022-12-12","81272.36","Poor",False,"DevOps","Illinois",2022,"Dec 2022","Central","Medium Income","30-34"
+NULL,"Pending","2022-11-01","64150.97","Good",True,"Cloud Tech","Texas",2022,"Nov 2022","South","Low Income",NULL
+35,"Active","2023-10-25","64378.1","Poor",False,"Sales","Florida",2023,"Oct 2023","East","Low Income","35-39"
+NULL,"Inactive","2020-09-27","85927.35","Good",False,"Finance","Texas",2020,"Sep 2020","South","Medium Income",NULL
+NULL,"Inactive","2024-01-21","51523.93","Average",True,"Finance","Nevada",2024,"Jan 2024","West","Low Income",NULL
+30,"Active","2022-05-17","74117.02","Poor",False,"Sales","Texas",2022,"May 2022","South","Medium Income","30-34"
+25,"Inactive","2022-04-17","62598.69","Average",True,"Finance","Texas",2022,"Apr 2022","South","Low Income","25-29"
+35,"Inactive","2022-02-08","55617.5","Excellent",True,"Finance","Florida",2022,"Feb 2022","East","Low Income","35-39"
+35,"Pending","2022-03-15","87018.98","Good",True,"Cloud Tech","New York",2022,"Mar 2022","East","Medium Income","35-39"
+25,"Inactive","2023-10-11","100336.58","Excellent",True,"Cloud Tech","California",2023,"Oct 2023","West","High Income","25-29"
+30,"Inactive","2020-11-13","69295.48","Excellent",False,"Admin","Florida",2020,"Nov 2020","East","Low Income","30-34"
+25,"Pending","2024-04-17","115536.66","Excellent",True,"DevOps","Florida",2024,"Apr 2024","East","High Income","25-29"
+35,"Pending","2022-02-02","58358.07","Poor",True,"HR","Texas",2022,"Feb 2022","South","Low Income","35-39"
+30,"Pending","2020-03-09","81250.87","Excellent",False,"Cloud Tech","Texas",2020,"Mar 2020","South","Medium Income","30-34"
+30,"Inactive","2022-06-17","66403.75","Good",False,"DevOps","Texas",2022,"Jun 2022","South","Low Income","30-34"
+30,"Active","2024-07-28","114147.79","Excellent",False,"Sales","California",2024,"Jul 2024","West","High Income","30-34"
+30,"Pending","2022-12-03","65472.99","Good",False,"HR","New York",2022,"Dec 2022","East","Low Income","30-34"
+NULL,"Active","2023-07-06","97512.51","Good",True,"Sales","Nevada",2023,"Jul 2023","West","Medium Income",NULL
+35,"Inactive","2024-05-28","86712.41","Average",True,"DevOps","Nevada",2024,"May 2024","West","Medium Income","35-39"
+30,"Active","2024-03-25","87654.98","Poor",False,"HR","Florida",2024,"Mar 2024","East","Medium Income","30-34"
+35,"Inactive","2020-04-28","89367.02","Poor",False,"DevOps","New York",2020,"Apr 2020","East","Medium Income","35-39"
+40,"Active","2021-11-07","95269.41","Good",True,"Admin","California",2021,"Nov 2021","West","Medium Income","40+"
+25,"Active","2020-04-15","68792.31","Average",False,"Sales","Nevada",2020,"Apr 2020","West","Low Income","25-29"
+25,"Pending","2023-10-07","89119.53","Good",True,"Admin","Illinois",2023,"Oct 2023","Central","Medium Income","25-29"
+35,"Active","2024-02-27","58212.13","Good",False,"Cloud Tech","New York",2024,"Feb 2024","East","Low Income","35-39"
+30,"Pending","2021-02-22","77764.24","Good",True,"DevOps","Illinois",2021,"Feb 2021","Central","Medium Income","30-34"
+35,"Pending","2023-08-21","75148.17","Average",False,"Finance","Florida",2023,"Aug 2023","East","Medium Income","35-39"
+40,"Inactive","2024-04-08","108781.18","Poor",False,"Cloud Tech","Nevada",2024,"Apr 2024","West","High Income","40+"
+35,"Pending","2024-11-04","65489.19","Average",True,"Finance","Texas",2024,"Nov 2024","South","Low Income","35-39"
+NULL,"Pending","2022-05-05","70663.46","Excellent",False,"Sales","Illinois",2022,"May 2022","Central","Medium Income",NULL
+40,"Inactive","2023-02-01","95822.56","Average",False,"Sales","New York",2023,"Feb 2023","East","Medium Income","40+"
+40,"Pending","2022-10-01","82258.03","Average",True,"DevOps","Nevada",2022,"Oct 2022","West","Medium Income","40+"
+30,"Pending","2022-09-27","62883.34","Average",False,"Admin","Nevada",2022,"Sep 2022","West","Low Income","30-34"
+NULL,"Pending","2020-04-09","103503.72","Average",True,"Cloud Tech","Texas",2020,"Apr 2020","South","High Income",NULL
+25,"Active","2021-03-23","85401.3","Poor",True,"DevOps","New York",2021,"Mar 2021","East","Medium Income","25-29"
+NULL,"Pending","2024-07-23","98850.14","Poor",False,"HR","Texas",2024,"Jul 2024","South","Medium Income",NULL
+25,"Active","2021-05-08","63435.24","Poor",False,"Cloud Tech","Illinois",2021,"May 2021","Central","Low Income","25-29"
+35,"Inactive","2022-04-11","82129.84","Average",False,"Finance","Texas",2022,"Apr 2022","South","Medium Income","35-39"
+35,"Pending","2024-10-23","95492.61","Good",False,"DevOps","Texas",2024,"Oct 2024","South","Medium Income","35-39"
+40,"Inactive","2020-04-24","94572.37","Good",False,"Finance","Illinois",2020,"Apr 2020","Central","Medium Income","40+"
+40,"Inactive","2023-03-04","118413.05","Poor",False,"Finance","Nevada",2023,"Mar 2023","West","High Income","40+"
+30,"Pending","2022-08-31","68976.65","Poor",True,"Admin","Nevada",2022,"Aug 2022","West","Low Income","30-34"
+NULL,"Active","2021-01-02","115013.65","Average",False,"Sales","Nevada",2021,"Jan 2021","West","High Income",NULL
+NULL,"Inactive","2020-06-06","70949.38","Poor",True,"Admin","Nevada",2020,"Jun 2020","West","Medium Income",NULL
+NULL,"Pending","2020-10-13","105334.87","Average",False,"HR","Florida",2020,"Oct 2020","East","High Income",NULL
+NULL,"Active","2020-07-19","80596.18","Good",False,"DevOps","California",2020,"Jul 2020","West","Medium Income",NULL
+NULL,"Inactive","2024-05-03","72846.37","Good",True,"Sales","Illinois",2024,"May 2024","Central","Medium Income",NULL
+40,"Pending","2022-02-07","80229.36","Excellent",False,"Admin","California",2022,"Feb 2022","West","Medium Income","40+"
+25,"Active","2023-12-31","55145.47","Good",False,"Sales","California",2023,"Dec 2023","West","Low Income","25-29"
+40,"Active","2020-09-28","56110.81","Good",False,"HR","California",2020,"Sep 2020","West","Low Income","40+"
+25,"Inactive","2023-02-09","56514.5","Average",False,"Cloud Tech","Texas",2023,"Feb 2023","South","Low Income","25-29"
+40,"Inactive","2022-03-05","104541.84","Good",False,"Cloud Tech","California",2022,"Mar 2022","West","High Income","40+"
+NULL,"Pending","2022-02-18","61865.12","Excellent",True,"Sales","New York",2022,"Feb 2022","East","Low Income",NULL
+40,"Active","2022-06-09","69317.33","Good",False,"Admin","Texas",2022,"Jun 2022","South","Low Income","40+"
+35,"Pending","2023-07-04","84706.17","Average",False,"HR","New York",2023,"Jul 2023","East","Medium Income","35-39"
+25,"Active","2022-03-21","73255.21","Average",False,"Admin","California",2022,"Mar 2022","West","Medium Income","25-29"
+40,"Pending","2023-05-02","59528.71","Poor",False,"HR","Florida",2023,"May 2023","East","Low Income","40+"
+40,"Inactive","2021-10-15","70401.37","Good",True,"HR","New York",2021,"Oct 2021","East","Medium Income","40+"
+NULL,"Inactive","2021-07-28","107154.62","Average",True,"Admin","California",2021,"Jul 2021","West","High Income",NULL
+NULL,"Pending","2021-01-03","97719.88","Excellent",False,"Admin","Illinois",2021,"Jan 2021","Central","Medium Income",NULL
+30,"Pending","2020-05-21","107327.59","Poor",False,"Finance","California",2020,"May 2020","West","High Income","30-34"
+40,"Inactive","2021-05-10","67687.72","Excellent",True,"Admin","Nevada",2021,"May 2021","West","Low Income","40+"
+40,"Pending","2022-09-08","90757.08","Good",True,"Cloud Tech","Florida",2022,"Sep 2022","East","Medium Income","40+"
+NULL,"Pending","2024-07-21","87583.42","Good",False,"Cloud Tech","California",2024,"Jul 2024","West","Medium Income",NULL
+25,"Pending","2021-12-28","61643.69","Good",True,"Admin","Nevada",2021,"Dec 2021","West","Low Income","25-29"
+35,"Active","2020-07-20","68111.69","Poor",False,"Finance","Texas",2020,"Jul 2020","South","Low Income","35-39"
+40,"Inactive","2024-04-30","97568.88","Average",True,"HR","Florida",2024,"Apr 2024","East","Medium Income","40+"
+35,"Active","2021-08-28","79118.28","Poor",True,"Cloud Tech","Florida",2021,"Aug 2021","East","Medium Income","35-39"
+30,"Inactive","2022-07-21","104898.9","Excellent",True,"HR","California",2022,"Jul 2022","West","High Income","30-34"
+40,"Pending","2023-11-27","81671.3","Poor",True,"Cloud Tech","Florida",2023,"Nov 2023","East","Medium Income","40+"
+25,"Pending","2020-08-11","97399.75","Excellent",False,"Cloud Tech","California",2020,"Aug 2020","West","Medium Income","25-29"
+NULL,"Active","2021-11-08","89189.43","Poor",True,"Admin","Illinois",2021,"Nov 2021","Central","Medium Income",NULL
+40,"Active","2023-08-04","96011.55","Average",True,"DevOps","New York",2023,"Aug 2023","East","Medium Income","40+"
+40,"Inactive","2020-01-10","99331.49","Excellent",False,"Sales","Florida",2020,"Jan 2020","East","Medium Income","40+"
+NULL,"Active","2022-01-19","72818.94","Good",True,"Cloud Tech","Illinois",2022,"Jan 2022","Central","Medium Income",NULL
+40,"Inactive","2023-05-07","77204.75","Good",True,"Sales","Nevada",2023,"May 2023","West","Medium Income","40+"
+35,"Pending","2020-12-19","106961.68","Poor",False,"HR","Florida",2020,"Dec 2020","East","High Income","35-39"
+NULL,"Pending","2020-10-01","71923","Good",True,"Sales","Texas",2020,"Oct 2020","South","Medium Income",NULL
+30,"Active","2022-11-12","77192.43","Excellent",False,"HR","Nevada",2022,"Nov 2022","West","Medium Income","30-34"
+40,"Pending","2023-01-05","98540.3","Good",False,"Admin","Florida",2023,"Jan 2023","East","Medium Income","40+"
+NULL,"Inactive","2020-10-14","63096.9","Average",False,"Admin","Florida",2020,"Oct 2020","East","Low Income",NULL
+35,"Active","2021-02-03","107065.12","Average",False,"Cloud Tech","Florida",2021,"Feb 2021","East","High Income","35-39"
+40,"Inactive","2023-12-25","108792.43","Poor",True,"DevOps","Florida",2023,"Dec 2023","East","High Income","40+"
+NULL,"Inactive","2020-03-07","69239.7","Excellent",False,"Cloud Tech","New York",2020,"Mar 2020","East","Low Income",NULL
+40,"Inactive","2023-01-30","85756.42","Average",True,"Sales","Nevada",2023,"Jan 2023","West","Medium Income","40+"
+NULL,"Active","2024-04-05","100328.62","Average",True,"HR","Illinois",2024,"Apr 2024","Central","High Income",NULL
+25,"Active","2021-09-01","111236.69","Excellent",True,"DevOps","Nevada",2021,"Sep 2021","West","High Income","25-29"
+35,"Active","2024-05-07","106832.22","Good",True,"Cloud Tech","Florida",2024,"May 2024","East","High Income","35-39"
+NULL,"Active","2023-06-15","59746.45","Good",True,"DevOps","Florida",2023,"Jun 2023","East","Low Income",NULL
+25,"Pending","2021-07-29","91780.04","Poor",True,"Sales","California",2021,"Jul 2021","West","Medium Income","25-29"
+35,"Pending","2023-10-23","107062.66","Good",True,"Sales","California",2023,"Oct 2023","West","High Income","35-39"
+25,"Active","2023-12-07","110625.52","Excellent",True,"HR","Nevada",2023,"Dec 2023","West","High Income","25-29"
+30,"Inactive","2020-10-18","90419.79","Average",True,"DevOps","Florida",2020,"Oct 2020","East","Medium Income","30-34"
+40,"Pending","2024-06-15","111608.76","Good",True,"Finance","Texas",2024,"Jun 2024","South","High Income","40+"
+35,"Inactive","2023-04-06","50173.12","Poor",False,"Finance","Florida",2023,"Apr 2023","East","Low Income","35-39"
+40,"Pending","2022-01-03","109507.44","Good",False,"DevOps","Nevada",2022,"Jan 2022","West","High Income","40+"
+30,"Inactive","2021-07-03","72600.56","Excellent",False,"Finance","New York",2021,"Jul 2021","East","Medium Income","30-34"
+NULL,"Pending","2024-04-10","53388.65","Poor",True,"Finance","California",2024,"Apr 2024","West","Low Income",NULL
+25,"Inactive","2022-07-23","50047.32","Good",False,"Cloud Tech","New York",2022,"Jul 2022","East","Low Income","25-29"
+30,"Active","2024-11-25","115290.79","Poor",False,"DevOps","California",2024,"Nov 2024","West","High Income","30-34"
+35,"Pending","2023-08-21","61586.76","Excellent",False,"Cloud Tech","California",2023,"Aug 2023","West","Low Income","35-39"
+30,"Active","2023-12-12","56662.86","Average",True,"Finance","Nevada",2023,"Dec 2023","West","Low Income","30-34"
+25,"Active","2022-09-05","54957.98","Excellent",True,"Finance","Nevada",2022,"Sep 2022","West","Low Income","25-29"
+25,"Inactive","2020-10-07","76790.47","Excellent",True,"HR","California",2020,"Oct 2020","West","Medium Income","25-29"
+30,"Pending","2020-01-18","92722.35","Excellent",False,"Cloud Tech","Illinois",2020,"Jan 2020","Central","Medium Income","30-34"
+30,"Active","2022-04-23","93125.32","Average",False,"DevOps","Nevada",2022,"Apr 2022","West","Medium Income","30-34"
+25,"Active","2023-04-22","101100.64","Average",False,"Cloud Tech","New York",2023,"Apr 2023","East","High Income","25-29"
+35,"Inactive","2023-08-13","55897.41","Poor",False,"Admin","New York",2023,"Aug 2023","East","Low Income","35-39"
+25,"Active","2022-11-26","92484.88","Good",True,"DevOps","California",2022,"Nov 2022","West","Medium Income","25-29"
+35,"Active","2022-10-10","77011.99","Average",True,"DevOps","Texas",2022,"Oct 2022","South","Medium Income","35-39"
+NULL,"Inactive","2020-09-27","77078.68","Average",True,"Cloud Tech","California",2020,"Sep 2020","West","Medium Income",NULL
+35,"Active","2024-04-11","82971.02","Good",False,"Sales","Nevada",2024,"Apr 2024","West","Medium Income","35-39"
+25,"Active","2021-06-20","65102.01","Average",True,"Sales","Texas",2021,"Jun 2021","South","Low Income","25-29"
+NULL,"Pending","2022-10-23","103697.7","Excellent",True,"HR","Nevada",2022,"Oct 2022","West","High Income",NULL
+25,"Pending","2023-06-15","60687.63","Excellent",False,"DevOps","Illinois",2023,"Jun 2023","Central","Low Income","25-29"
+NULL,"Pending","2021-10-31","77351.21","Good",False,"Admin","New York",2021,"Oct 2021","East","Medium Income",NULL
+35,"Pending","2024-09-29","66704.62","Poor",True,"DevOps","Florida",2024,"Sep 2024","East","Low Income","35-39"
+25,"Pending","2020-04-22","71650.3","Poor",True,"Finance","Illinois",2020,"Apr 2020","Central","Medium Income","25-29"
+25,"Active","2023-12-07","50794.54","Good",True,"Cloud Tech","Nevada",2023,"Dec 2023","West","Low Income","25-29"
+NULL,"Inactive","2020-12-07","76030.86","Good",True,"Sales","Nevada",2020,"Dec 2020","West","Medium Income",NULL
+25,"Inactive","2021-07-11","86669.79","Excellent",True,"Cloud Tech","California",2021,"Jul 2021","West","Medium Income","25-29"
+40,"Inactive","2020-04-23","84972.7","Poor",True,"Finance","Illinois",2020,"Apr 2020","Central","Medium Income","40+"
+30,"Pending","2023-10-12","100594.49","Average",False,"HR","Texas",2023,"Oct 2023","South","High Income","30-34"
+25,"Active","2022-08-24","75478.35","Excellent",False,"Cloud Tech","New York",2022,"Aug 2022","East","Medium Income","25-29"
+25,"Pending","2023-09-04","79355.85","Good",False,"Sales","Nevada",2023,"Sep 2023","West","Medium Income","25-29"
+30,"Active","2022-04-01","54824.85","Average",False,"Admin","Illinois",2022,"Apr 2022","Central","Low Income","30-34"
+35,"Pending","2022-07-24","50557.84","Average",True,"HR","Texas",2022,"Jul 2022","South","Low Income","35-39"
+NULL,"Inactive","2023-04-26","118030.04","Excellent",True,"Admin","Florida",2023,"Apr 2023","East","High Income",NULL
+NULL,"Active","2022-04-19","51673.72","Poor",False,"Admin","New York",2022,"Apr 2022","East","Low Income",NULL
+35,"Inactive","2024-10-04","101665.79","Poor",True,"Cloud Tech","Nevada",2024,"Oct 2024","West","High Income","35-39"
+NULL,"Inactive","2020-05-02","118079.15","Good",True,"Admin","Florida",2020,"May 2020","East","High Income",NULL
+25,"Pending","2022-04-25","99059.28","Poor",False,"Cloud Tech","New York",2022,"Apr 2022","East","Medium Income","25-29"
+NULL,"Active","2023-07-29","107397.4","Poor",False,"Cloud Tech","Illinois",2023,"Jul 2023","Central","High Income",NULL
+40,"Active","2021-08-20","68269.37","Excellent",False,"DevOps","New York",2021,"Aug 2021","East","Low Income","40+"
+35,"Inactive","2021-04-23","55228.12","Poor",True,"HR","Florida",2021,"Apr 2021","East","Low Income","35-39"
+30,"Inactive","2022-08-12","71982.33","Average",False,"Cloud Tech","New York",2022,"Aug 2022","East","Medium Income","30-34"
+30,"Inactive","2021-06-26","109673.75","Excellent",False,"Finance","California",2021,"Jun 2021","West","High Income","30-34"
+NULL,"Inactive","2020-10-30","56384.9","Excellent",True,"Cloud Tech","New York",2020,"Oct 2020","East","Low Income",NULL
+40,"Pending","2021-09-04","68211.68","Good",False,"Sales","Texas",2021,"Sep 2021","South","Low Income","40+"
+40,"Pending","2023-01-31","67489.68","Poor",False,"Finance","Illinois",2023,"Jan 2023","Central","Low Income","40+"
+25,"Active","2020-09-24","63869.31","Good",False,"Cloud Tech","Texas",2020,"Sep 2020","South","Low Income","25-29"
+NULL,"Active","2020-02-14","119801.3","Average",True,"Sales","California",2020,"Feb 2020","West","High Income",NULL
+30,"Active","2020-03-28","115959.65","Excellent",True,"Cloud Tech","California",2020,"Mar 2020","West","High Income","30-34"
+40,"Inactive","2023-10-31","79866.48","Excellent",True,"Finance","Texas",2023,"Oct 2023","South","Medium Income","40+"
+35,"Active","2020-03-11","92987.46","Excellent",True,"HR","Florida",2020,"Mar 2020","East","Medium Income","35-39"
+40,"Inactive","2020-05-04","56140.51","Average",False,"Finance","Illinois",2020,"May 2020","Central","Low Income","40+"
+30,"Active","2023-07-15","119586.11","Average",True,"DevOps","Illinois",2023,"Jul 2023","Central","High Income","30-34"
+40,"Inactive","2023-01-20","104700.46","Good",True,"DevOps","California",2023,"Jan 2023","West","High Income","40+"
+40,"Active","2021-10-15","91798.14","Good",False,"HR","New York",2021,"Oct 2021","East","Medium Income","40+"
+25,"Inactive","2024-04-19","90879.22","Good",False,"Finance","Illinois",2024,"Apr 2024","Central","Medium Income","25-29"
+25,"Active","2021-06-29","87358.27","Poor",False,"Admin","Nevada",2021,"Jun 2021","West","Medium Income","25-29"
+30,"Inactive","2024-09-14","119407.93","Excellent",True,"Sales","Florida",2024,"Sep 2024","East","High Income","30-34"
+NULL,"Pending","2022-01-04","113978.6","Excellent",True,"HR","Nevada",2022,"Jan 2022","West","High Income",NULL
+NULL,"Pending","2021-01-20","108568.78","Good",True,"Sales","New York",2021,"Jan 2021","East","High Income",NULL
+NULL,"Inactive","2020-03-18","56318.02","Excellent",False,"HR","New York",2020,"Mar 2020","East","Low Income",NULL
+25,"Active","2021-11-10","114252.73","Good",False,"Sales","Florida",2021,"Nov 2021","East","High Income","25-29"
+35,"Inactive","2020-05-01","51533.9","Poor",True,"DevOps","New York",2020,"May 2020","East","Low Income","35-39"
+25,"Active","2022-02-04","99317.66","Poor",False,"Sales","California",2022,"Feb 2022","West","Medium Income","25-29"
+35,"Active","2020-11-18","101264.64","Average",False,"HR","California",2020,"Nov 2020","West","High Income","35-39"
+35,"Pending","2023-11-21","112272.02","Poor",False,"Admin","Nevada",2023,"Nov 2023","West","High Income","35-39"
+30,"Active","2022-02-13","71477.63","Good",True,"DevOps","Illinois",2022,"Feb 2022","Central","Medium Income","30-34"
+30,"Pending","2023-03-19","77412.1","Poor",False,"DevOps","Texas",2023,"Mar 2023","South","Medium Income","30-34"
+30,"Pending","2021-03-28","94775.27","Average",False,"Sales","California",2021,"Mar 2021","West","Medium Income","30-34"
+30,"Active","2021-05-02","74276.71","Excellent",True,"HR","Nevada",2021,"May 2021","West","Medium Income","30-34"
+35,"Inactive","2021-03-05","67467.86","Good",True,"Finance","Texas",2021,"Mar 2021","South","Low Income","35-39"
+25,"Active","2022-03-01","80675.41","Excellent",False,"DevOps","Texas",2022,"Mar 2022","South","Medium Income","25-29"
+40,"Inactive","2023-01-23","76274.33","Average",False,"Finance","Florida",2023,"Jan 2023","East","Medium Income","40+"
+30,"Active","2021-08-26","51405.46","Average",True,"Finance","Texas",2021,"Aug 2021","South","Low Income","30-34"
+25,"Inactive","2020-11-25","101238.96","Average",True,"HR","New York",2020,"Nov 2020","East","High Income","25-29"
+35,"Inactive","2023-12-13","52169.52","Excellent",False,"Sales","Illinois",2023,"Dec 2023","Central","Low Income","35-39"
+NULL,"Active","2020-07-26","73176.62","Excellent",False,"Finance","New York",2020,"Jul 2020","East","Medium Income",NULL
+NULL,"Pending","2021-06-27","96241.85","Excellent",False,"DevOps","Nevada",2021,"Jun 2021","West","Medium Income",NULL
+25,"Pending","2024-09-16","84366.38","Excellent",False,"Finance","Illinois",2024,"Sep 2024","Central","Medium Income","25-29"
+40,"Pending","2023-07-04","92015.09","Average",True,"Cloud Tech","California",2023,"Jul 2023","West","Medium Income","40+"
+30,"Inactive","2020-06-16","83149.95","Average",False,"Admin","Nevada",2020,"Jun 2020","West","Medium Income","30-34"
+40,"Inactive","2020-07-05","94930.65","Good",False,"Finance","Nevada",2020,"Jul 2020","West","Medium Income","40+"
+40,"Inactive","2020-04-01","68430.72","Good",True,"HR","New York",2020,"Apr 2020","East","Low Income","40+"
+35,"Active","2024-03-20","98752.97","Excellent",False,"Sales","Texas",2024,"Mar 2024","South","Medium Income","35-39"
+NULL,"Active","2023-02-07","54268.86","Poor",True,"Finance","Illinois",2023,"Feb 2023","Central","Low Income",NULL
+NULL,"Pending","2024-12-10","66494.94","Poor",False,"DevOps","Florida",2024,"Dec 2024","East","Low Income",NULL
+25,"Pending","2024-06-27","90003.98","Average",False,"Sales","Illinois",2024,"Jun 2024","Central","Medium Income","25-29"
+25,"Active","2021-03-09","106592.25","Average",True,"Finance","New York",2021,"Mar 2021","East","High Income","25-29"
+25,"Active","2024-08-11","93905.83","Average",True,"DevOps","Florida",2024,"Aug 2024","East","Medium Income","25-29"
+35,"Active","2022-03-05","88945.49","Good",False,"DevOps","Texas",2022,"Mar 2022","South","Medium Income","35-39"
+NULL,"Pending","2023-06-30","91130.33","Good",False,"Finance","Texas",2023,"Jun 2023","South","Medium Income",NULL
+40,"Pending","2023-04-19","90787.4","Average",False,"Admin","New York",2023,"Apr 2023","East","Medium Income","40+"
+25,"Inactive","2024-11-11","87494.34","Average",True,"Sales","Texas",2024,"Nov 2024","South","Medium Income","25-29"
+35,"Inactive","2023-03-17","92627.35","Average",False,"Finance","Nevada",2023,"Mar 2023","West","Medium Income","35-39"
+40,"Pending","2023-10-26","98556.29","Poor",True,"Admin","Illinois",2023,"Oct 2023","Central","Medium Income","40+"
+30,"Inactive","2021-07-04","112792.2","Good",True,"Cloud Tech","Nevada",2021,"Jul 2021","West","High Income","30-34"
+35,"Pending","2023-11-03","56875.22","Poor",False,"HR","Florida",2023,"Nov 2023","East","Low Income","35-39"
+35,"Inactive","2021-07-05","101015.96","Poor",True,"DevOps","Florida",2021,"Jul 2021","East","High Income","35-39"
+30,"Inactive","2024-02-26","83912.22","Average",False,"Finance","New York",2024,"Feb 2024","East","Medium Income","30-34"
+25,"Active","2021-09-29","99669.86","Average",False,"Sales","New York",2021,"Sep 2021","East","Medium Income","25-29"
+30,"Active","2021-05-25","52314.97","Excellent",False,"Admin","New York",2021,"May 2021","East","Low Income","30-34"
+30,"Inactive","2022-10-31","77785.96","Excellent",False,"HR","California",2022,"Oct 2022","West","Medium Income","30-34"
+30,"Pending","2022-07-02","62430.86","Poor",False,"HR","Florida",2022,"Jul 2022","East","Low Income","30-34"
+35,"Pending","2024-08-28","98219.54","Good",True,"Admin","California",2024,"Aug 2024","West","Medium Income","35-39"
+25,"Active","2024-10-21","65494.58","Average",True,"Admin","Illinois",2024,"Oct 2024","Central","Low Income","25-29"
+35,"Pending","2020-02-11","110524.1","Average",False,"DevOps","Florida",2020,"Feb 2020","East","High Income","35-39"
+40,"Active","2023-05-16","106060.54","Poor",False,"Admin","Nevada",2023,"May 2023","West","High Income","40+"
+35,"Inactive","2022-07-29","67639.91","Excellent",True,"Finance","Florida",2022,"Jul 2022","East","Low Income","35-39"
+NULL,"Pending","2023-09-18","117653.98","Good",True,"Cloud Tech","Texas",2023,"Sep 2023","South","High Income",NULL
+35,"Inactive","2020-05-10","73539.86","Excellent",True,"DevOps","Texas",2020,"May 2020","South","Medium Income","35-39"
+35,"Pending","2023-08-27","70915.38","Excellent",True,"HR","Nevada",2023,"Aug 2023","West","Medium Income","35-39"
+25,"Pending","2021-10-16","97652.9","Excellent",False,"Sales","Florida",2021,"Oct 2021","East","Medium Income","25-29"
+35,"Inactive","2022-03-06","101571.25","Excellent",False,"HR","Florida",2022,"Mar 2022","East","High Income","35-39"
+35,"Active","2023-11-06","87424.46","Average",True,"DevOps","Nevada",2023,"Nov 2023","West","Medium Income","35-39"
+NULL,"Pending","2024-11-30","89077.36","Average",False,"HR","New York",2024,"Nov 2024","East","Medium Income",NULL
+30,"Pending","2024-07-13","89132.22","Excellent",True,"DevOps","California",2024,"Jul 2024","West","Medium Income","30-34"
+25,"Active","2024-03-04","111000.26","Good",False,"Admin","California",2024,"Mar 2024","West","High Income","25-29"
+35,"Inactive","2022-08-07","109584.97","Poor",True,"HR","Illinois",2022,"Aug 2022","Central","High Income","35-39"
+40,"Active","2024-11-11","97648.84","Good",False,"Admin","Illinois",2024,"Nov 2024","Central","Medium Income","40+"
+25,"Active","2021-12-02","78643.43","Good",True,"Admin","New York",2021,"Dec 2021","East","Medium Income","25-29"
+35,"Active","2022-07-14","69146.95","Excellent",False,"DevOps","Texas",2022,"Jul 2022","South","Low Income","35-39"
+NULL,"Active","2020-09-22","93013.58","Average",True,"Admin","Florida",2020,"Sep 2020","East","Medium Income",NULL
+40,"Active","2020-03-18","87364.78","Good",False,"Finance","Florida",2020,"Mar 2020","East","Medium Income","40+"
+35,"Active","2023-10-17","50288.67","Excellent",False,"Sales","New York",2023,"Oct 2023","East","Low Income","35-39"
+35,"Active","2022-02-24","85233.55","Good",True,"HR","New York",2022,"Feb 2022","East","Medium Income","35-39"
+25,"Inactive","2024-01-30","86420.19","Good",False,"HR","California",2024,"Jan 2024","West","Medium Income","25-29"
+30,"Inactive","2024-03-16","63189.82","Excellent",False,"HR","Florida",2024,"Mar 2024","East","Low Income","30-34"
+25,"Pending","2020-09-25","64783.32","Average",False,"Admin","New York",2020,"Sep 2020","East","Low Income","25-29"
+25,"Pending","2024-06-10","52615.44","Average",False,"HR","Nevada",2024,"Jun 2024","West","Low Income","25-29"
+NULL,"Pending","2020-04-08","96337.89","Poor",False,"Sales","Texas",2020,"Apr 2020","South","Medium Income",NULL
+25,"Inactive","2022-06-28","76617.76","Excellent",True,"DevOps","Texas",2022,"Jun 2022","South","Medium Income","25-29"
+30,"Pending","2023-07-14","50651.32","Poor",False,"Admin","Nevada",2023,"Jul 2023","West","Low Income","30-34"
+NULL,"Pending","2023-12-06","59601.45","Poor",False,"HR","Illinois",2023,"Dec 2023","Central","Low Income",NULL
+NULL,"Active","2021-08-01","57980.88","Poor",False,"DevOps","Illinois",2021,"Aug 2021","Central","Low Income",NULL
+NULL,"Pending","2021-02-17","75054.53","Average",False,"Admin","California",2021,"Feb 2021","West","Medium Income",NULL
+25,"Active","2023-11-10","115318.7","Excellent",False,"Sales","Florida",2023,"Nov 2023","East","High Income","25-29"
+25,"Active","2024-09-06","90190.69","Poor",True,"DevOps","Texas",2024,"Sep 2024","South","Medium Income","25-29"
+NULL,"Pending","2020-07-26","113334.56","Excellent",False,"Cloud Tech","Nevada",2020,"Jul 2020","West","High Income",NULL
+35,"Active","2020-07-23","106922.49","Excellent",True,"HR","Florida",2020,"Jul 2020","East","High Income","35-39"
+35,"Inactive","2024-02-21","58113.07","Average",True,"DevOps","California",2024,"Feb 2024","West","Low Income","35-39"
+25,"Pending","2020-12-15","73006.26","Poor",True,"Admin","Nevada",2020,"Dec 2020","West","Medium Income","25-29"
+25,"Active","2020-08-21","78054.43","Poor",True,"HR","California",2020,"Aug 2020","West","Medium Income","25-29"
+40,"Inactive","2023-08-21","112028.67","Excellent",False,"DevOps","Florida",2023,"Aug 2023","East","High Income","40+"
+25,"Inactive","2023-04-24","83787.24","Good",True,"Admin","Texas",2023,"Apr 2023","South","Medium Income","25-29"
+30,"Inactive","2023-06-06","52017.14","Average",True,"Sales","Florida",2023,"Jun 2023","East","Low Income","30-34"
+40,"Inactive","2022-06-21","53218.06","Average",False,"Finance","Texas",2022,"Jun 2022","South","Low Income","40+"
+25,"Pending","2024-04-20","102053.67","Average",False,"DevOps","Nevada",2024,"Apr 2024","West","High Income","25-29"
+35,"Pending","2023-12-05","93276.73","Average",False,"Sales","Illinois",2023,"Dec 2023","Central","Medium Income","35-39"
+25,"Pending","2024-10-04","82850.23","Poor",False,"DevOps","New York",2024,"Oct 2024","East","Medium Income","25-29"
+25,"Active","2021-11-08","117910.15","Good",False,"Finance","California",2021,"Nov 2021","West","High Income","25-29"
+NULL,"Inactive","2024-07-31","66450","Average",True,"DevOps","Florida",2024,"Jul 2024","East","Low Income",NULL
+25,"Inactive","2020-08-31","118646.95","Average",False,"Finance","Florida",2020,"Aug 2020","East","High Income","25-29"
+25,"Active","2023-02-15","88436.92","Excellent",False,"Finance","Florida",2023,"Feb 2023","East","Medium Income","25-29"
+NULL,"Pending","2023-10-07","81934.55","Poor",False,"Sales","New York",2023,"Oct 2023","East","Medium Income",NULL
+30,"Pending","2024-04-20","93383.06","Average",False,"Finance","California",2024,"Apr 2024","West","Medium Income","30-34"
+40,"Pending","2021-03-30","50153.79","Good",True,"Cloud Tech","Texas",2021,"Mar 2021","South","Low Income","40+"
+NULL,"Pending","2020-08-05","53204.47","Good",False,"Sales","California",2020,"Aug 2020","West","Low Income",NULL
+40,"Pending","2021-02-05","63128.04","Poor",False,"Cloud Tech","California",2021,"Feb 2021","West","Low Income","40+"
+30,"Pending","2021-11-23","57543.6","Good",True,"Finance","New York",2021,"Nov 2021","East","Low Income","30-34"
+40,"Pending","2022-10-29","59424.52","Good",False,"Finance","Nevada",2022,"Oct 2022","West","Low Income","40+"
+NULL,"Inactive","2022-11-07","104675.7","Poor",True,"Finance","Illinois",2022,"Nov 2022","Central","High Income",NULL
+30,"Pending","2023-05-14","92431.25","Average",False,"Cloud Tech","Florida",2023,"May 2023","East","Medium Income","30-34"
+40,"Active","2021-07-14","77850.9","Average",True,"Sales","Nevada",2021,"Jul 2021","West","Medium Income","40+"
+40,"Inactive","2023-05-18","99001","Good",True,"Admin","New York",2023,"May 2023","East","Medium Income","40+"
+NULL,"Pending","2023-02-07","94280.83","Good",True,"HR","Nevada",2023,"Feb 2023","West","Medium Income",NULL
+35,"Pending","2023-08-24","118262.56","Average",True,"DevOps","New York",2023,"Aug 2023","East","High Income","35-39"
+25,"Inactive","2023-04-08","89944.67","Poor",False,"HR","Illinois",2023,"Apr 2023","Central","Medium Income","25-29"
+NULL,"Active","2022-12-06","57452.93","Good",True,"HR","Florida",2022,"Dec 2022","East","Low Income",NULL
+25,"Active","2021-08-09","97837.32","Excellent",False,"Admin","California",2021,"Aug 2021","West","Medium Income","25-29"
+35,"Active","2022-01-04","106981.84","Poor",True,"Admin","Illinois",2022,"Jan 2022","Central","High Income","35-39"
+NULL,"Pending","2024-05-25","105778.36","Good",True,"Finance","New York",2024,"May 2024","East","High Income",NULL
+40,"Pending","2021-10-02","117608.32","Good",True,"Finance","Florida",2021,"Oct 2021","East","High Income","40+"
+30,"Active","2023-07-21","99324.03","Excellent",False,"Sales","Florida",2023,"Jul 2023","East","Medium Income","30-34"
+30,"Active","2023-10-30","55212.83","Excellent",True,"HR","Florida",2023,"Oct 2023","East","Low Income","30-34"
+40,"Inactive","2023-02-13","68496.77","Average",False,"Cloud Tech","Florida",2023,"Feb 2023","East","Low Income","40+"
+25,"Pending","2020-11-13","52795.84","Poor",False,"HR","Florida",2020,"Nov 2020","East","Low Income","25-29"
+NULL,"Inactive","2024-06-05","90087.39","Poor",False,"DevOps","California",2024,"Jun 2024","West","Medium Income",NULL
+NULL,"Pending","2020-05-19","105038.08","Average",False,"Admin","New York",2020,"May 2020","East","High Income",NULL
+25,"Active","2023-09-20","73231.85","Poor",False,"HR","New York",2023,"Sep 2023","East","Medium Income","25-29"
+NULL,"Pending","2024-08-13","102649.36","Poor",False,"Sales","Florida",2024,"Aug 2024","East","High Income",NULL
+35,"Pending","2023-06-10","114302.51","Poor",False,"Finance","New York",2023,"Jun 2023","East","High Income","35-39"
+35,"Inactive","2021-06-09","87816.61","Poor",False,"Finance","Texas",2021,"Jun 2021","South","Medium Income","35-39"
+NULL,"Inactive","2020-03-30","70750.38","Poor",False,"Sales","Florida",2020,"Mar 2020","East","Medium Income",NULL
+30,"Active","2024-11-06","97978.36","Poor",True,"DevOps","Nevada",2024,"Nov 2024","West","Medium Income","30-34"
+NULL,"Inactive","2023-08-17","107172.8","Excellent",True,"DevOps","Nevada",2023,"Aug 2023","West","High Income",NULL
+25,"Inactive","2020-03-18","56126.46","Poor",True,"Finance","Nevada",2020,"Mar 2020","West","Low Income","25-29"
+NULL,"Active","2021-06-13","78534.29","Average",True,"Cloud Tech","Illinois",2021,"Jun 2021","Central","Medium Income",NULL
+NULL,"Active","2022-01-02","114963.34","Excellent",False,"Cloud Tech","Nevada",2022,"Jan 2022","West","High Income",NULL
+NULL,"Inactive","2022-02-20","77657.93","Poor",False,"Cloud Tech","California",2022,"Feb 2022","West","Medium Income",NULL
+30,"Active","2024-03-09","77369.48","Average",False,"Sales","New York",2024,"Mar 2024","East","Medium Income","30-34"
+30,"Pending","2023-08-19","76119.14","Good",False,"HR","Nevada",2023,"Aug 2023","West","Medium Income","30-34"
+25,"Pending","2023-05-06","77585.72","Excellent",False,"Cloud Tech","Texas",2023,"May 2023","South","Medium Income","25-29"
+35,"Pending","2024-01-26","74069.62","Good",False,"Admin","Nevada",2024,"Jan 2024","West","Medium Income","35-39"
+30,"Pending","2024-09-05","67691.92","Average",True,"Admin","New York",2024,"Sep 2024","East","Low Income","30-34"
+NULL,"Pending","2020-05-29","70345.69","Excellent",True,"Finance","Nevada",2020,"May 2020","West","Medium Income",NULL
+30,"Inactive","2021-11-08","74999.69","Good",True,"DevOps","Illinois",2021,"Nov 2021","Central","Medium Income","30-34"
+25,"Active","2021-01-31","72245.02","Poor",True,"HR","Illinois",2021,"Jan 2021","Central","Medium Income","25-29"
+NULL,"Pending","2022-01-16","106538.98","Excellent",False,"Admin","Illinois",2022,"Jan 2022","Central","High Income",NULL
+25,"Active","2023-12-29","101787.14","Good",False,"HR","New York",2023,"Dec 2023","East","High Income","25-29"
+30,"Inactive","2024-12-02","83596.78","Average",False,"DevOps","Nevada",2024,"Dec 2024","West","Medium Income","30-34"
+40,"Active","2023-08-15","92463.94","Average",True,"Sales","Texas",2023,"Aug 2023","South","Medium Income","40+"
+NULL,"Pending","2024-12-20","93863.32","Excellent",False,"Admin","California",2024,"Dec 2024","West","Medium Income",NULL
+NULL,"Pending","2023-03-31","78359.41","Good",False,"DevOps","Texas",2023,"Mar 2023","South","Medium Income",NULL
+NULL,"Pending","2022-08-24","95773.57","Excellent",False,"HR","Illinois",2022,"Aug 2022","Central","Medium Income",NULL
+30,"Inactive","2020-10-01","82529.08","Excellent",True,"Sales","Nevada",2020,"Oct 2020","West","Medium Income","30-34"
+35,"Pending","2021-05-04","109358.73","Good",False,"Sales","Texas",2021,"May 2021","South","High Income","35-39"
+NULL,"Active","2021-01-01","89645.01","Good",True,"Admin","Florida",2021,"Jan 2021","East","Medium Income",NULL
+40,"Active","2024-04-08","84134.95","Poor",True,"HR","Texas",2024,"Apr 2024","South","Medium Income","40+"
+30,"Active","2022-11-26","113540.83","Good",True,"Cloud Tech","Nevada",2022,"Nov 2022","West","High Income","30-34"
+40,"Pending","2021-10-25","57225.75","Average",True,"Cloud Tech","Texas",2021,"Oct 2021","South","Low Income","40+"
+35,"Pending","2020-12-22","76366.17","Excellent",False,"Sales","Illinois",2020,"Dec 2020","Central","Medium Income","35-39"
+NULL,"Active","2022-11-23","78408.95","Excellent",True,"HR","Florida",2022,"Nov 2022","East","Medium Income",NULL
+40,"Active","2022-10-24","111742.4","Average",True,"Finance","Illinois",2022,"Oct 2022","Central","High Income","40+"
+25,"Inactive","2021-03-09","60516.83","Good",False,"Sales","Nevada",2021,"Mar 2021","West","Low Income","25-29"
+30,"Pending","2020-08-20","83706.17","Average",False,"Finance","California",2020,"Aug 2020","West","Medium Income","30-34"
+NULL,"Inactive","2020-02-15","67056.92","Average",True,"Admin","Nevada",2020,"Feb 2020","West","Low Income",NULL
+30,"Active","2024-12-29","90058.85","Poor",False,"DevOps","Illinois",2024,"Dec 2024","Central","Medium Income","30-34"
+30,"Pending","2023-02-28","94633.59","Average",True,"Sales","Florida",2023,"Feb 2023","East","Medium Income","30-34"
+25,"Pending","2022-08-23","110711.17","Excellent",True,"Admin","Florida",2022,"Aug 2022","East","High Income","25-29"
+NULL,"Active","2023-06-30","96175.41","Average",True,"Admin","Illinois",2023,"Jun 2023","Central","Medium Income",NULL
+40,"Active","2021-04-15","76474.79","Excellent",True,"Sales","Illinois",2021,"Apr 2021","Central","Medium Income","40+"
+30,"Pending","2022-05-09","107855.99","Excellent",False,"Sales","Illinois",2022,"May 2022","Central","High Income","30-34"
+40,"Active","2024-12-02","104870.78","Excellent",True,"Sales","Illinois",2024,"Dec 2024","Central","High Income","40+"
+NULL,"Active","2023-11-29","87087.16","Poor",False,"Finance","California",2023,"Nov 2023","West","Medium Income",NULL
+40,"Pending","2024-04-08","108603.34","Excellent",False,"HR","Illinois",2024,"Apr 2024","Central","High Income","40+"
+30,"Active","2024-10-25","55867.23","Excellent",False,"HR","Florida",2024,"Oct 2024","East","Low Income","30-34"
+35,"Pending","2024-03-02","105259.57","Good",True,"Admin","Texas",2024,"Mar 2024","South","High Income","35-39"
+NULL,"Pending","2021-02-24","98143.67","Excellent",False,"Cloud Tech","Florida",2021,"Feb 2021","East","Medium Income",NULL
+25,"Pending","2023-04-13","67754.29","Average",True,"Admin","Florida",2023,"Apr 2023","East","Low Income","25-29"
+NULL,"Inactive","2023-10-25","77821.79","Average",False,"HR","Illinois",2023,"Oct 2023","Central","Medium Income",NULL
+30,"Pending","2022-09-17","67764.44","Poor",False,"HR","Illinois",2022,"Sep 2022","Central","Low Income","30-34"
+40,"Pending","2020-08-31","102346.99","Excellent",True,"DevOps","New York",2020,"Aug 2020","East","High Income","40+"
+25,"Inactive","2024-05-28","73690.65","Good",True,"Admin","Illinois",2024,"May 2024","Central","Medium Income","25-29"
+30,"Active","2024-07-05","56376.2","Average",True,"Finance","Nevada",2024,"Jul 2024","West","Low Income","30-34"
+25,"Active","2022-01-29","55602.78","Good",False,"Cloud Tech","California",2022,"Jan 2022","West","Low Income","25-29"
+40,"Pending","2021-08-09","99812.41","Good",False,"Sales","Nevada",2021,"Aug 2021","West","Medium Income","40+"
+40,"Active","2024-10-07","95981.9","Average",True,"Finance","Texas",2024,"Oct 2024","South","Medium Income","40+"
+30,"Pending","2022-11-22","98891.48","Good",True,"Cloud Tech","Illinois",2022,"Nov 2022","Central","Medium Income","30-34"
+35,"Active","2020-11-18","56079","Average",True,"Admin","Nevada",2020,"Nov 2020","West","Low Income","35-39"
+25,"Pending","2024-08-26","89137.97","Average",False,"Sales","California",2024,"Aug 2024","West","Medium Income","25-29"
+35,"Active","2022-07-20","115079.97","Excellent",True,"Admin","Illinois",2022,"Jul 2022","Central","High Income","35-39"
+30,"Active","2023-02-18","55067.02","Poor",True,"Finance","Illinois",2023,"Feb 2023","Central","Low Income","30-34"
+NULL,"Pending","2021-05-27","98593.43","Average",True,"HR","Illinois",2021,"May 2021","Central","Medium Income",NULL
+30,"Pending","2022-08-01","112756.67","Average",True,"HR","Florida",2022,"Aug 2022","East","High Income","30-34"
+25,"Inactive","2023-07-21","105205.92","Poor",False,"HR","Texas",2023,"Jul 2023","South","High Income","25-29"
+35,"Pending","2023-01-02","50680.62","Average",True,"Finance","California",2023,"Jan 2023","West","Low Income","35-39"
+35,"Pending","2024-03-13","107475.23","Average",False,"Cloud Tech","Florida",2024,"Mar 2024","East","High Income","35-39"
+40,"Active","2023-03-20","68835.3","Good",True,"HR","California",2023,"Mar 2023","West","Low Income","40+"
+40,"Active","2024-02-15","66943.96","Poor",True,"DevOps","New York",2024,"Feb 2024","East","Low Income","40+"
+30,"Inactive","2020-11-15","104525.69","Excellent",False,"Admin","Illinois",2020,"Nov 2020","Central","High Income","30-34"
+40,"Pending","2020-03-27","109360.74","Average",True,"Sales","Texas",2020,"Mar 2020","South","High Income","40+"
+40,"Inactive","2021-01-09","118907.63","Poor",False,"Sales","California",2021,"Jan 2021","West","High Income","40+"
+40,"Active","2020-04-20","86801.48","Good",False,"Admin","Illinois",2020,"Apr 2020","Central","Medium Income","40+"
+NULL,"Pending","2024-05-08","62236.03","Excellent",True,"HR","Florida",2024,"May 2024","East","Low Income",NULL
+35,"Active","2023-10-12","64752.67","Poor",False,"DevOps","Texas",2023,"Oct 2023","South","Low Income","35-39"
+35,"Active","2023-01-28","68399.43","Excellent",False,"Sales","California",2023,"Jan 2023","West","Low Income","35-39"
+35,"Inactive","2021-03-07","79336.51","Excellent",False,"Admin","Florida",2021,"Mar 2021","East","Medium Income","35-39"
+40,"Active","2023-03-16","59179.74","Excellent",False,"HR","Florida",2023,"Mar 2023","East","Low Income","40+"
+25,"Active","2023-02-11","80255.31","Average",False,"DevOps","California",2023,"Feb 2023","West","Medium Income","25-29"
+30,"Active","2022-05-13","84971.85","Average",False,"Finance","Texas",2022,"May 2022","South","Medium Income","30-34"
+40,"Pending","2024-10-24","89748.42","Good",False,"HR","California",2024,"Oct 2024","West","Medium Income","40+"
+25,"Inactive","2024-09-14","94090.35","Good",False,"Admin","California",2024,"Sep 2024","West","Medium Income","25-29"
+35,"Pending","2023-02-15","115229.12","Poor",True,"HR","California",2023,"Feb 2023","West","High Income","35-39"
+40,"Pending","2023-05-25","63927.07","Good",True,"Cloud Tech","California",2023,"May 2023","West","Low Income","40+"
+35,"Pending","2022-11-11","84124.56","Excellent",False,"HR","California",2022,"Nov 2022","West","Medium Income","35-39"
+40,"Inactive","2023-07-17","116961.61","Excellent",True,"Sales","California",2023,"Jul 2023","West","High Income","40+"
+40,"Pending","2022-04-08","109423.05","Average",False,"DevOps","Illinois",2022,"Apr 2022","Central","High Income","40+"
+35,"Inactive","2023-08-30","70394.94","Excellent",False,"Admin","California",2023,"Aug 2023","West","Medium Income","35-39"
+35,"Pending","2023-04-17","86465.5","Poor",True,"Finance","California",2023,"Apr 2023","West","Medium Income","35-39"
+30,"Pending","2021-04-25","96341.58","Excellent",False,"Cloud Tech","New York",2021,"Apr 2021","East","Medium Income","30-34"
+30,"Active","2020-07-14","54465.47","Excellent",False,"Admin","Florida",2020,"Jul 2020","East","Low Income","30-34"
+25,"Active","2020-07-31","68371.66","Poor",False,"Finance","Illinois",2020,"Jul 2020","Central","Low Income","25-29"
+35,"Pending","2021-08-04","81021.23","Good",False,"Admin","New York",2021,"Aug 2021","East","Medium Income","35-39"
+25,"Inactive","2024-10-28","114069.07","Good",True,"Cloud Tech","Nevada",2024,"Oct 2024","West","High Income","25-29"
+NULL,"Inactive","2020-10-03","117867.96","Poor",False,"HR","Illinois",2020,"Oct 2020","Central","High Income",NULL
+NULL,"Pending","2024-03-13","94509.58","Average",False,"Sales","Florida",2024,"Mar 2024","East","Medium Income",NULL
+35,"Active","2024-07-06","56268.78","Excellent",False,"Finance","Illinois",2024,"Jul 2024","Central","Low Income","35-39"
+35,"Active","2020-01-01","86632.14","Poor",True,"Admin","California",2020,"Jan 2020","West","Medium Income","35-39"
+35,"Pending","2020-01-18","98143.9","Excellent",False,"HR","Florida",2020,"Jan 2020","East","Medium Income","35-39"
+30,"Inactive","2022-03-19","67492.73","Excellent",True,"Finance","Illinois",2022,"Mar 2022","Central","Low Income","30-34"
+40,"Active","2022-05-14","93772.61","Poor",False,"Admin","California",2022,"May 2022","West","Medium Income","40+"
+35,"Pending","2024-07-14","68817.54","Excellent",False,"DevOps","Nevada",2024,"Jul 2024","West","Low Income","35-39"
+30,"Active","2023-07-28","81874.01","Good",True,"Admin","California",2023,"Jul 2023","West","Medium Income","30-34"
+30,"Active","2020-04-11","117880.14","Average",False,"HR","Texas",2020,"Apr 2020","South","High Income","30-34"
+25,"Inactive","2022-05-10","71810.37","Average",True,"Finance","New York",2022,"May 2022","East","Medium Income","25-29"
+40,"Inactive","2020-06-13","109048.24","Poor",False,"DevOps","Texas",2020,"Jun 2020","South","High Income","40+"
+35,"Pending","2022-08-20","62712.26","Average",False,"Finance","Texas",2022,"Aug 2022","South","Low Income","35-39"
+40,"Pending","2021-05-24","76935.85","Good",True,"Cloud Tech","Texas",2021,"May 2021","South","Medium Income","40+"
+25,"Pending","2024-04-27","56577.22","Poor",True,"Admin","Florida",2024,"Apr 2024","East","Low Income","25-29"
+40,"Inactive","2021-10-23","61102.8","Good",True,"Finance","Nevada",2021,"Oct 2021","West","Low Income","40+"
+35,"Inactive","2021-02-10","75229.87","Excellent",True,"Finance","Nevada",2021,"Feb 2021","West","Medium Income","35-39"
+25,"Inactive","2021-10-26","51054.74","Excellent",False,"Admin","Nevada",2021,"Oct 2021","West","Low Income","25-29"
+40,"Active","2023-04-05","104843.27","Excellent",False,"Admin","Texas",2023,"Apr 2023","South","High Income","40+"
+35,"Active","2022-10-20","56398.11","Excellent",False,"Cloud Tech","New York",2022,"Oct 2022","East","Low Income","35-39"
+25,"Active","2023-12-07","87544.73","Good",False,"HR","Nevada",2023,"Dec 2023","West","Medium Income","25-29"
+30,"Pending","2024-03-29","74312.24","Poor",False,"HR","Illinois",2024,"Mar 2024","Central","Medium Income","30-34"
+25,"Inactive","2024-01-23","59431.25","Poor",True,"DevOps","Florida",2024,"Jan 2024","East","Low Income","25-29"
+40,"Pending","2023-11-28","84306.44","Average",False,"Sales","California",2023,"Nov 2023","West","Medium Income","40+"
+35,"Inactive","2024-11-11","108194.47","Good",False,"DevOps","Florida",2024,"Nov 2024","East","High Income","35-39"
+25,"Inactive","2021-08-28","107359.3","Excellent",False,"Sales","New York",2021,"Aug 2021","East","High Income","25-29"
+NULL,"Pending","2020-05-09","96080.26","Average",False,"Admin","California",2020,"May 2020","West","Medium Income",NULL
+30,"Inactive","2024-04-17","88602.75","Average",True,"Sales","Nevada",2024,"Apr 2024","West","Medium Income","30-34"
+40,"Active","2020-07-16","86624.04","Good",True,"DevOps","California",2020,"Jul 2020","West","Medium Income","40+"
+30,"Active","2022-09-21","63413.16","Good",True,"Cloud Tech","New York",2022,"Sep 2022","East","Low Income","30-34"
+40,"Pending","2023-04-23","67915.7","Good",False,"Sales","Illinois",2023,"Apr 2023","Central","Low Income","40+"
+25,"Inactive","2024-12-27","108245.44","Poor",True,"Admin","Nevada",2024,"Dec 2024","West","High Income","25-29"
+35,"Inactive","2024-08-10","75834.81","Excellent",True,"Sales","Nevada",2024,"Aug 2024","West","Medium Income","35-39"
+NULL,"Active","2024-09-04","71273.32","Good",False,"Cloud Tech","Nevada",2024,"Sep 2024","West","Medium Income",NULL
+25,"Pending","2022-02-28","63262.23","Good",False,"DevOps","New York",2022,"Feb 2022","East","Low Income","25-29"
+NULL,"Pending","2024-03-14","89069.91","Good",False,"DevOps","New York",2024,"Mar 2024","East","Medium Income",NULL
+40,"Inactive","2024-12-13","57287.17","Average",True,"DevOps","Nevada",2024,"Dec 2024","West","Low Income","40+"
+NULL,"Active","2022-12-29","119890.35","Average",True,"HR","Nevada",2022,"Dec 2022","West","High Income",NULL
+35,"Inactive","2022-04-24","103492.91","Poor",False,"Sales","California",2022,"Apr 2022","West","High Income","35-39"
+NULL,"Pending","2021-03-14","76254.42","Excellent",False,"Admin","Illinois",2021,"Mar 2021","Central","Medium Income",NULL
+35,"Inactive","2020-01-01","100841.93","Poor",True,"Finance","Florida",2020,"Jan 2020","East","High Income","35-39"
+NULL,"Active","2021-09-07","118907.61","Excellent",True,"Admin","California",2021,"Sep 2021","West","High Income",NULL
+25,"Pending","2022-11-13","88942.62","Average",False,"DevOps","California",2022,"Nov 2022","West","Medium Income","25-29"
+25,"Inactive","2020-11-15","59688.57","Average",False,"Cloud Tech","Florida",2020,"Nov 2020","East","Low Income","25-29"
+30,"Active","2023-03-14","77985.88","Average",True,"HR","California",2023,"Mar 2023","West","Medium Income","30-34"
+35,"Inactive","2024-08-18","112931.69","Poor",False,"Finance","New York",2024,"Aug 2024","East","High Income","35-39"
+NULL,"Active","2024-02-05","106583.88","Good",True,"DevOps","California",2024,"Feb 2024","West","High Income",NULL
+35,"Inactive","2024-11-12","58437.84","Good",True,"HR","Florida",2024,"Nov 2024","East","Low Income","35-39"
+40,"Pending","2020-03-25","72352.16","Average",True,"Cloud Tech","California",2020,"Mar 2020","West","Medium Income","40+"
+NULL,"Active","2020-04-13","97154.47","Good",True,"DevOps","New York",2020,"Apr 2020","East","Medium Income",NULL
+NULL,"Active","2021-03-30","80235.5","Good",False,"Sales","Illinois",2021,"Mar 2021","Central","Medium Income",NULL
+30,"Inactive","2023-03-16","102172.05","Poor",False,"HR","Texas",2023,"Mar 2023","South","High Income","30-34"
+25,"Inactive","2024-05-03","98850.94","Excellent",True,"Finance","Illinois",2024,"May 2024","Central","Medium Income","25-29"
+NULL,"Inactive","2023-08-28","89993.15","Average",True,"Admin","Florida",2023,"Aug 2023","East","Medium Income",NULL
+30,"Inactive","2021-10-24","97931.66","Average",True,"Cloud Tech","California",2021,"Oct 2021","West","Medium Income","30-34"
+40,"Inactive","2021-01-25","72451.69","Poor",True,"Finance","California",2021,"Jan 2021","West","Medium Income","40+"
+35,"Pending","2024-08-09","119311.14","Poor",True,"Admin","California",2024,"Aug 2024","West","High Income","35-39"
+40,"Active","2023-11-04","76167.46","Good",False,"Cloud Tech","New York",2023,"Nov 2023","East","Medium Income","40+"
+25,"Active","2023-06-25","114871.08","Average",False,"DevOps","Texas",2023,"Jun 2023","South","High Income","25-29"
+25,"Active","2021-09-16","81504.31","Excellent",False,"HR","Nevada",2021,"Sep 2021","West","Medium Income","25-29"
+NULL,"Pending","2022-12-07","102524.86","Poor",False,"Admin","New York",2022,"Dec 2022","East","High Income",NULL
+25,"Pending","2022-12-14","53043.74","Excellent",True,"Finance","Illinois",2022,"Dec 2022","Central","Low Income","25-29"
+30,"Inactive","2020-04-18","82547.26","Excellent",True,"DevOps","Illinois",2020,"Apr 2020","Central","Medium Income","30-34"
+40,"Pending","2024-10-11","113900.81","Average",True,"DevOps","California",2024,"Oct 2024","West","High Income","40+"
+25,"Inactive","2021-04-18","118585.5","Average",True,"HR","Nevada",2021,"Apr 2021","West","High Income","25-29"
+35,"Pending","2020-06-29","63049.22","Poor",True,"Finance","Illinois",2020,"Jun 2020","Central","Low Income","35-39"
+NULL,"Active","2021-05-21","114558.91","Average",False,"DevOps","Texas",2021,"May 2021","South","High Income",NULL
+40,"Active","2021-12-11","97901.79","Average",True,"DevOps","New York",2021,"Dec 2021","East","Medium Income","40+"
+30,"Active","2023-07-05","68037.56","Average",False,"Sales","California",2023,"Jul 2023","West","Low Income","30-34"
+NULL,"Active","2021-11-30","112802.27","Excellent",False,"HR","New York",2021,"Nov 2021","East","High Income",NULL
+40,"Pending","2024-11-22","93786.72","Poor",False,"Sales","Nevada",2024,"Nov 2024","West","Medium Income","40+"
+NULL,"Inactive","2023-05-24","73049.93","Good",False,"Admin","Florida",2023,"May 2023","East","Medium Income",NULL
+30,"Pending","2024-06-26","64161.72","Excellent",True,"Sales","Illinois",2024,"Jun 2024","Central","Low Income","30-34"
+40,"Pending","2020-11-19","72224.73","Average",False,"Admin","Nevada",2020,"Nov 2020","West","Medium Income","40+"
+30,"Pending","2020-03-01","103580.45","Excellent",False,"HR","New York",2020,"Mar 2020","East","High Income","30-34"
+40,"Pending","2024-08-09","112589.11","Average",False,"HR","Florida",2024,"Aug 2024","East","High Income","40+"
+30,"Active","2021-01-13","51833.88","Average",True,"Admin","Texas",2021,"Jan 2021","South","Low Income","30-34"
+NULL,"Active","2023-05-06","66252.78","Excellent",True,"Sales","Illinois",2023,"May 2023","Central","Low Income",NULL
+25,"Active","2022-10-25","109229.68","Poor",True,"DevOps","Florida",2022,"Oct 2022","East","High Income","25-29"
+30,"Inactive","2020-10-08","61465.05","Average",False,"Finance","Florida",2020,"Oct 2020","East","Low Income","30-34"
+25,"Active","2024-02-29","96993.74","Poor",False,"HR","Florida",2024,"Feb 2024","East","Medium Income","25-29"
+25,"Pending","2022-09-30","98150.39","Good",True,"Admin","Florida",2022,"Sep 2022","East","Medium Income","25-29"
+40,"Pending","2024-02-14","107703","Average",False,"Finance","Texas",2024,"Feb 2024","South","High Income","40+"
+NULL,"Pending","2023-01-03","86766.14","Poor",True,"DevOps","Illinois",2023,"Jan 2023","Central","Medium Income",NULL
+NULL,"Inactive","2024-08-20","111443.69","Poor",True,"Cloud Tech","Florida",2024,"Aug 2024","East","High Income",NULL
+NULL,"Pending","2020-03-21","89039.07","Good",False,"Sales","Florida",2020,"Mar 2020","East","Medium Income",NULL
+30,"Inactive","2024-12-16","71318.79","Poor",False,"HR","Florida",2024,"Dec 2024","East","Medium Income","30-34"
+30,"Pending","2020-04-21","98296.71","Poor",False,"Finance","California",2020,"Apr 2020","West","Medium Income","30-34"
+40,"Pending","2020-08-19","62584","Good",False,"Cloud Tech","Nevada",2020,"Aug 2020","West","Low Income","40+"
+40,"Inactive","2020-02-21","62521.5","Average",True,"Finance","California",2020,"Feb 2020","West","Low Income","40+"
+40,"Inactive","2023-11-17","95400.35","Poor",True,"Cloud Tech","California",2023,"Nov 2023","West","Medium Income","40+"
+25,"Pending","2022-07-09","94385.07","Poor",True,"Cloud Tech","Texas",2022,"Jul 2022","South","Medium Income","25-29"
+NULL,"Inactive","2023-02-01","76642.49","Poor",True,"Sales","New York",2023,"Feb 2023","East","Medium Income",NULL
+NULL,"Active","2024-11-14","60122.52","Excellent",True,"DevOps","New York",2024,"Nov 2024","East","Low Income",NULL
+40,"Pending","2024-04-23","117267.63","Good",False,"HR","California",2024,"Apr 2024","West","High Income","40+"
+40,"Pending","2024-12-12","84542.68","Good",True,"Sales","Texas",2024,"Dec 2024","South","Medium Income","40+"
+40,"Active","2023-05-16","92007.15","Average",True,"Finance","Florida",2023,"May 2023","East","Medium Income","40+"
+NULL,"Active","2020-04-10","62938.8","Average",False,"DevOps","Illinois",2020,"Apr 2020","Central","Low Income",NULL
+25,"Pending","2023-03-29","108661.01","Poor",False,"Admin","Texas",2023,"Mar 2023","South","High Income","25-29"
+25,"Active","2020-11-26","97046.33","Good",False,"Cloud Tech","Florida",2020,"Nov 2020","East","Medium Income","25-29"
+40,"Inactive","2020-03-14","56518.84","Average",False,"DevOps","Illinois",2020,"Mar 2020","Central","Low Income","40+"
+40,"Pending","2020-05-12","70498.29","Good",True,"Cloud Tech","Florida",2020,"May 2020","East","Medium Income","40+"
+35,"Pending","2021-03-05","98708.06","Average",True,"Sales","Florida",2021,"Mar 2021","East","Medium Income","35-39"
+NULL,"Pending","2020-06-28","83856.41","Excellent",False,"DevOps","Nevada",2020,"Jun 2020","West","Medium Income",NULL
+40,"Inactive","2022-12-12","90259.99","Average",False,"Sales","California",2022,"Dec 2022","West","Medium Income","40+"
+NULL,"Pending","2024-02-02","94230.03","Excellent",True,"Sales","Florida",2024,"Feb 2024","East","Medium Income",NULL
+NULL,"Inactive","2021-01-31","50110.66","Average",True,"Admin","Nevada",2021,"Jan 2021","West","Low Income",NULL
+30,"Inactive","2020-04-03","73365.46","Poor",False,"Sales","Florida",2020,"Apr 2020","East","Medium Income","30-34"
+25,"Pending","2021-07-30","67809.23","Excellent",False,"DevOps","New York",2021,"Jul 2021","East","Low Income","25-29"
+NULL,"Active","2020-08-21","98008.51","Average",False,"Sales","California",2020,"Aug 2020","West","Medium Income",NULL
+30,"Inactive","2023-10-09","83537.58","Poor",False,"Admin","California",2023,"Oct 2023","West","Medium Income","30-34"
+30,"Pending","2022-08-01","112444.08","Excellent",True,"Finance","New York",2022,"Aug 2022","East","High Income","30-34"
+40,"Active","2024-09-06","86475.13","Poor",True,"Finance","Nevada",2024,"Sep 2024","West","Medium Income","40+"
+NULL,"Active","2023-03-28","97984.53","Good",True,"Sales","Texas",2023,"Mar 2023","South","Medium Income",NULL
+25,"Active","2021-11-25","118853.31","Good",False,"Admin","California",2021,"Nov 2021","West","High Income","25-29"
+NULL,"Active","2023-05-03","58179.12","Excellent",False,"Sales","Florida",2023,"May 2023","East","Low Income",NULL
+35,"Inactive","2022-04-27","56075.84","Average",True,"DevOps","Texas",2022,"Apr 2022","South","Low Income","35-39"
+40,"Pending","2021-09-11","62250.89","Excellent",True,"HR","New York",2021,"Sep 2021","East","Low Income","40+"
+30,"Pending","2020-02-21","105931.77","Poor",True,"Cloud Tech","Florida",2020,"Feb 2020","East","High Income","30-34"
+30,"Pending","2024-11-24","86653.96","Average",True,"HR","Florida",2024,"Nov 2024","East","Medium Income","30-34"
+25,"Active","2021-02-24","100719.94","Good",False,"Sales","Nevada",2021,"Feb 2021","West","High Income","25-29"
+25,"Pending","2024-10-02","91600.13","Average",True,"HR","Texas",2024,"Oct 2024","South","Medium Income","25-29"
+25,"Pending","2024-03-06","71873.66","Good",True,"Cloud Tech","Illinois",2024,"Mar 2024","Central","Medium Income","25-29"
+30,"Active","2021-08-09","69365.47","Average",True,"HR","New York",2021,"Aug 2021","East","Low Income","30-34"
+25,"Active","2021-07-14","58012.23","Average",True,"HR","New York",2021,"Jul 2021","East","Low Income","25-29"
+30,"Pending","2021-10-14","68973.65","Average",True,"Sales","California",2021,"Oct 2021","West","Low Income","30-34"
+NULL,"Active","2021-09-29","92928.4","Poor",True,"Admin","New York",2021,"Sep 2021","East","Medium Income",NULL
+25,"Inactive","2023-10-15","53531.92","Poor",True,"Admin","Texas",2023,"Oct 2023","South","Low Income","25-29"
+40,"Pending","2023-05-05","112389.31","Excellent",False,"Finance","New York",2023,"May 2023","East","High Income","40+"
+NULL,"Inactive","2024-08-01","63870.3","Excellent",False,"HR","California",2024,"Aug 2024","West","Low Income",NULL
+40,"Active","2024-07-22","106164.53","Good",False,"Sales","New York",2024,"Jul 2024","East","High Income","40+"
+40,"Pending","2023-12-25","103654.54","Poor",False,"HR","Nevada",2023,"Dec 2023","West","High Income","40+"
+30,"Inactive","2022-03-13","62834.72","Good",True,"Sales","California",2022,"Mar 2022","West","Low Income","30-34"
+35,"Active","2020-05-13","83273.41","Excellent",False,"Finance","Florida",2020,"May 2020","East","Medium Income","35-39"
+30,"Pending","2023-03-22","58917.58","Good",False,"HR","California",2023,"Mar 2023","West","Low Income","30-34"
+35,"Active","2024-06-10","71148.27","Excellent",True,"Sales","Nevada",2024,"Jun 2024","West","Medium Income","35-39"
+30,"Pending","2020-11-21","118172.42","Poor",True,"Sales","New York",2020,"Nov 2020","East","High Income","30-34"
+30,"Inactive","2024-05-25","118614.37","Average",False,"DevOps","Illinois",2024,"May 2024","Central","High Income","30-34"
+NULL,"Active","2023-09-19","96872.36","Poor",False,"DevOps","New York",2023,"Sep 2023","East","Medium Income",NULL
+25,"Inactive","2021-10-28","88856.14","Good",True,"Sales","Illinois",2021,"Oct 2021","Central","Medium Income","25-29"
+35,"Pending","2020-08-10","97985.61","Good",False,"Finance","Texas",2020,"Aug 2020","South","Medium Income","35-39"
+35,"Pending","2020-05-05","56337.31","Poor",True,"Finance","Nevada",2020,"May 2020","West","Low Income","35-39"
+30,"Inactive","2022-12-24","70405.23","Poor",True,"DevOps","New York",2022,"Dec 2022","East","Medium Income","30-34"
+30,"Inactive","2021-09-05","89919.35","Excellent",True,"Admin","Nevada",2021,"Sep 2021","West","Medium Income","30-34"
+40,"Active","2023-04-08","50568.35","Good",True,"DevOps","California",2023,"Apr 2023","West","Low Income","40+"
+25,"Active","2022-06-03","99155.53","Poor",True,"HR","Texas",2022,"Jun 2022","South","Medium Income","25-29"
+40,"Inactive","2023-01-21","64785.13","Average",True,"Finance","Florida",2023,"Jan 2023","East","Low Income","40+"
+30,"Inactive","2024-09-16","79206.48","Good",False,"Sales","Florida",2024,"Sep 2024","East","Medium Income","30-34"
+30,"Pending","2020-02-02","60079.71","Average",True,"Cloud Tech","Texas",2020,"Feb 2020","South","Low Income","30-34"
+30,"Pending","2024-07-08","79109.88","Poor",False,"Cloud Tech","New York",2024,"Jul 2024","East","Medium Income","30-34"
+NULL,"Pending","2022-05-18","88643.5","Poor",False,"Admin","Florida",2022,"May 2022","East","Medium Income",NULL
+30,"Pending","2020-01-16","90455.7","Excellent",False,"Admin","Florida",2020,"Jan 2020","East","Medium Income","30-34"
+NULL,"Pending","2023-03-26","75687.9","Good",True,"HR","Florida",2023,"Mar 2023","East","Medium Income",NULL
+35,"Inactive","2023-11-15","55604.42","Average",False,"Cloud Tech","Illinois",2023,"Nov 2023","Central","Low Income","35-39"
+40,"Pending","2024-12-27","92704.94","Excellent",False,"Sales","Texas",2024,"Dec 2024","South","Medium Income","40+"
+NULL,"Pending","2020-04-18","113250.97","Good",True,"Sales","California",2020,"Apr 2020","West","High Income",NULL
+40,"Inactive","2023-03-21","101367.02","Excellent",False,"Finance","Illinois",2023,"Mar 2023","Central","High Income","40+"
+35,"Pending","2023-05-08","102459.77","Poor",False,"Admin","Texas",2023,"May 2023","South","High Income","35-39"
+25,"Pending","2020-12-12","90100.2","Good",False,"DevOps","Florida",2020,"Dec 2020","East","Medium Income","25-29"
+NULL,"Inactive","2020-06-17","58877.49","Excellent",False,"Cloud Tech","California",2020,"Jun 2020","West","Low Income",NULL
+NULL,"Pending","2020-11-05","96140.89","Average",True,"Admin","Illinois",2020,"Nov 2020","Central","Medium Income",NULL
+35,"Inactive","2021-01-05","105956.04","Excellent",False,"DevOps","New York",2021,"Jan 2021","East","High Income","35-39"
+25,"Active","2024-09-11","84716.38","Good",False,"Admin","Illinois",2024,"Sep 2024","Central","Medium Income","25-29"
+30,"Pending","2023-07-29","61709.83","Good",True,"DevOps","Florida",2023,"Jul 2023","East","Low Income","30-34"
+25,"Active","2020-04-17","61732.03","Average",True,"DevOps","California",2020,"Apr 2020","West","Low Income","25-29"
+40,"Active","2022-02-16","97845.7","Good",True,"DevOps","Illinois",2022,"Feb 2022","Central","Medium Income","40+"
+30,"Active","2021-08-14","114905.58","Poor",False,"Sales","Florida",2021,"Aug 2021","East","High Income","30-34"
+NULL,"Active","2022-12-24","94619.69","Good",True,"DevOps","Texas",2022,"Dec 2022","South","Medium Income",NULL
+NULL,"Inactive","2021-07-07","68696.15","Good",False,"DevOps","California",2021,"Jul 2021","West","Low Income",NULL
+40,"Active","2024-02-12","97032.29","Excellent",False,"DevOps","Nevada",2024,"Feb 2024","West","Medium Income","40+"
+30,"Active","2023-10-09","50593.33","Excellent",True,"HR","Illinois",2023,"Oct 2023","Central","Low Income","30-34"
+25,"Pending","2022-07-02","74606.15","Good",True,"Sales","Texas",2022,"Jul 2022","South","Medium Income","25-29"
+30,"Pending","2020-07-07","53981.73","Average",False,"Cloud Tech","Texas",2020,"Jul 2020","South","Low Income","30-34"
+NULL,"Pending","2020-09-02","56047.05","Excellent",True,"DevOps","Texas",2020,"Sep 2020","South","Low Income",NULL
+NULL,"Pending","2021-01-12","67733.5","Average",False,"Admin","Texas",2021,"Jan 2021","South","Low Income",NULL
+40,"Pending","2023-09-29","103891.64","Good",True,"HR","Florida",2023,"Sep 2023","East","High Income","40+"
+25,"Inactive","2022-03-06","73285.83","Good",True,"HR","Texas",2022,"Mar 2022","South","Medium Income","25-29"
+30,"Inactive","2021-02-14","92721.13","Poor",True,"Finance","Texas",2021,"Feb 2021","South","Medium Income","30-34"
+25,"Inactive","2021-03-23","92977.64","Excellent",False,"Admin","Illinois",2021,"Mar 2021","Central","Medium Income","25-29"
+35,"Active","2020-05-24","89994.12","Good",True,"Cloud Tech","Texas",2020,"May 2020","South","Medium Income","35-39"
+40,"Inactive","2023-03-18","56840.8","Poor",True,"Sales","Florida",2023,"Mar 2023","East","Low Income","40+"
+35,"Pending","2021-11-26","61663.91","Average",True,"Finance","Illinois",2021,"Nov 2021","Central","Low Income","35-39"
+30,"Active","2024-09-17","109523.4","Poor",True,"Finance","Nevada",2024,"Sep 2024","West","High Income","30-34"
+25,"Inactive","2024-07-05","65812.02","Average",True,"HR","Illinois",2024,"Jul 2024","Central","Low Income","25-29"
+NULL,"Inactive","2021-07-13","54708.88","Excellent",True,"Cloud Tech","Illinois",2021,"Jul 2021","Central","Low Income",NULL
+40,"Active","2023-08-27","107661.73","Excellent",True,"Admin","California",2023,"Aug 2023","West","High Income","40+"
+40,"Inactive","2021-02-13","79002","Average",True,"DevOps","Illinois",2021,"Feb 2021","Central","Medium Income","40+"
+NULL,"Pending","2023-12-11","86135.69","Excellent",False,"Admin","Texas",2023,"Dec 2023","South","Medium Income",NULL
+30,"Inactive","2021-07-02","115601.4","Good",True,"DevOps","Nevada",2021,"Jul 2021","West","High Income","30-34"
+30,"Inactive","2024-09-24","80477.21","Good",False,"DevOps","Nevada",2024,"Sep 2024","West","Medium Income","30-34"
+30,"Inactive","2023-08-16","61240.9","Poor",True,"Finance","California",2023,"Aug 2023","West","Low Income","30-34"
+40,"Active","2021-01-28","51939.29","Excellent",True,"Admin","Texas",2021,"Jan 2021","South","Low Income","40+"
+40,"Inactive","2022-05-14","95284.54","Good",False,"Finance","Illinois",2022,"May 2022","Central","Medium Income","40+"
+35,"Inactive","2024-06-05","106247.67","Excellent",True,"Admin","Texas",2024,"Jun 2024","South","High Income","35-39"
+25,"Active","2020-04-23","110170.88","Poor",True,"DevOps","Florida",2020,"Apr 2020","East","High Income","25-29"
+25,"Pending","2024-06-10","52615.44","Average",True,"HR","Nevada",2024,"Jun 2024","West","Low Income","25-29"
+30,"Inactive","2020-04-18","82547.26","Average",False,"DevOps","Illinois",2020,"Apr 2020","Central","Medium Income","30-34"
+25,"Active","2021-04-02","59767.65","Average",True,"DevOps","California",2021,"Apr 2021","West","Low Income","25-29"
+NULL,"Active","2020-07-10","65304.66","Excellent",True,"Finance","Texas",2020,"Jul 2020","South","Low Income",NULL
+NULL,"Pending","2023-12-07","88145.9","Good",True,"Admin","Nevada",2023,"Dec 2023","West","Medium Income",NULL
+25,"Inactive","2021-11-27","69450.99","Good",True,"Admin","Nevada",2021,"Nov 2021","West","Low Income","25-29"
+25,"Active","2022-01-05","109324.61","Poor",False,"Cloud Tech","Florida",2022,"Jan 2022","East","High Income","25-29"
+40,"Inactive","2020-06-10","88642.84","Good",False,"Sales","Texas",2020,"Jun 2020","South","Medium Income","40+"
+NULL,"Active","2020-04-03","96288.43","Good",False,"Admin","Nevada",2020,"Apr 2020","West","Medium Income",NULL
+30,"Inactive","2022-07-17","94497.91","Average",True,"Cloud Tech","Florida",2022,"Jul 2022","East","Medium Income","30-34"
+25,"Pending","2023-08-04","50060.73","Poor",False,"Finance","New York",2023,"Aug 2023","East","Low Income","25-29"
+35,"Inactive","2022-03-12","90224.82","Excellent",False,"Admin","Nevada",2022,"Mar 2022","West","Medium Income","35-39"
+40,"Pending","2024-05-18","106859.3","Good",False,"Finance","Florida",2024,"May 2024","East","High Income","40+"
+25,"Inactive","2020-09-05","89707.07","Good",False,"Finance","Nevada",2020,"Sep 2020","West","Medium Income","25-29"
+35,"Inactive","2020-04-23","94259.08","Excellent",True,"DevOps","California",2020,"Apr 2020","West","Medium Income","35-39"
+35,"Active","2024-09-18","82174.75","Excellent",False,"Sales","California",2024,"Sep 2024","West","Medium Income","35-39"
+30,"Inactive","2023-09-15","63370.22","Excellent",False,"Sales","Texas",2023,"Sep 2023","South","Low Income","30-34"
+35,"Pending","2022-06-15","101472.69","Good",True,"Finance","Texas",2022,"Jun 2022","South","High Income","35-39"
+25,"Active","2022-09-28","77213.73","Good",False,"DevOps","Illinois",2022,"Sep 2022","Central","Medium Income","25-29"
+40,"Active","2020-03-16","73749.96","Poor",True,"Sales","Florida",2020,"Mar 2020","East","Medium Income","40+"
+40,"Pending","2023-09-28","86618.37","Average",False,"Cloud Tech","New York",2023,"Sep 2023","East","Medium Income","40+"
+NULL,"Active","2024-02-15","59911.33","Excellent",True,"Admin","Texas",2024,"Feb 2024","South","Low Income",NULL
+NULL,"Pending","2023-08-21","59137.64","Good",False,"Cloud Tech","New York",2023,"Aug 2023","East","Low Income",NULL
+35,"Pending","2020-12-15","108474.65","Good",True,"Cloud Tech","Florida",2020,"Dec 2020","East","High Income","35-39"
+35,"Inactive","2023-12-08","115565.82","Excellent",True,"Admin","Nevada",2023,"Dec 2023","West","High Income","35-39"
+NULL,"Active","2022-08-04","76561.88","Excellent",True,"DevOps","New York",2022,"Aug 2022","East","Medium Income",NULL
+35,"Active","2024-07-06","72081.71","Average",False,"Cloud Tech","New York",2024,"Jul 2024","East","Medium Income","35-39"
+NULL,"Active","2023-09-04","84946.19","Poor",True,"DevOps","California",2023,"Sep 2023","West","Medium Income",NULL
+30,"Active","2024-03-05","89295.77","Excellent",False,"HR","New York",2024,"Mar 2024","East","Medium Income","30-34"
+NULL,"Active","2020-10-10","85666.84","Good",False,"Finance","California",2020,"Oct 2020","West","Medium Income",NULL
+25,"Active","2024-06-10","97633.68","Excellent",True,"Admin","Nevada",2024,"Jun 2024","West","Medium Income","25-29"
+40,"Pending","2021-05-29","117975.49","Good",True,"Sales","Florida",2021,"May 2021","East","High Income","40+"
+25,"Inactive","2024-04-23","94867.33","Poor",False,"DevOps","Illinois",2024,"Apr 2024","Central","Medium Income","25-29"
+30,"Pending","2024-11-28","100377.65","Average",True,"Finance","Texas",2024,"Nov 2024","South","High Income","30-34"
+NULL,"Inactive","2024-09-19","94726.46","Excellent",False,"Cloud Tech","Nevada",2024,"Sep 2024","West","Medium Income",NULL
+35,"Pending","2020-01-02","91926.12","Average",True,"Admin","Illinois",2020,"Jan 2020","Central","Medium Income","35-39"
+35,"Active","2021-05-08","111460.67","Excellent",True,"HR","New York",2021,"May 2021","East","High Income","35-39"
+40,"Active","2020-09-19","96182.56","Good",False,"Cloud Tech","Illinois",2020,"Sep 2020","Central","Medium Income","40+"
+35,"Inactive","2021-03-09","115023.94","Average",True,"Sales","Illinois",2021,"Mar 2021","Central","High Income","35-39"
+35,"Pending","2022-02-03","80667.01","Excellent",False,"Finance","Nevada",2022,"Feb 2022","West","Medium Income","35-39"
+30,"Inactive","2020-02-13","91181.61","Good",True,"Admin","Texas",2020,"Feb 2020","South","Medium Income","30-34"
+25,"Pending","2020-04-30","66025.92","Average",False,"Cloud Tech","Nevada",2020,"Apr 2020","West","Low Income","25-29"
+25,"Inactive","2023-10-02","83979.01","Average",False,"Sales","New York",2023,"Oct 2023","East","Medium Income","25-29"
+30,"Active","2020-07-12","56785.16","Excellent",True,"Finance","Florida",2020,"Jul 2020","East","Low Income","30-34"
+40,"Active","2023-10-11","95741.88","Excellent",False,"Finance","Nevada",2023,"Oct 2023","West","Medium Income","40+"
+40,"Active","2021-05-24","63411.31","Excellent",True,"DevOps","California",2021,"May 2021","West","Low Income","40+"
+40,"Inactive","2021-05-26","111214.02","Good",True,"Admin","California",2021,"May 2021","West","High Income","40+"
+25,"Active","2020-07-10","114845.69","Excellent",True,"DevOps","Illinois",2020,"Jul 2020","Central","High Income","25-29"
+40,"Active","2024-11-05","78072.82","Average",False,"Finance","Florida",2024,"Nov 2024","East","Medium Income","40+"
+25,"Inactive","2021-08-07","79610.52","Average",False,"Finance","California",2021,"Aug 2021","West","Medium Income","25-29"
+30,"Active","2020-04-29","90542.62","Excellent",True,"Admin","California",2020,"Apr 2020","West","Medium Income","30-34"
+25,"Inactive","2022-10-26","114357.1","Excellent",True,"Cloud Tech","Illinois",2022,"Oct 2022","Central","High Income","25-29"
+NULL,"Active","2023-05-03","54757.26","Poor",False,"Cloud Tech","New York",2023,"May 2023","East","Low Income",NULL
+25,"Pending","2023-05-02","52781.92","Average",True,"Sales","New York",2023,"May 2023","East","Low Income","25-29"
+25,"Pending","2021-03-27","54417.71","Excellent",False,"Finance","Illinois",2021,"Mar 2021","Central","Low Income","25-29"
+40,"Pending","2023-03-25","88211.94","Average",False,"HR","Texas",2023,"Mar 2023","South","Medium Income","40+"
+25,"Inactive","2020-05-09","58452.18","Excellent",True,"Sales","New York",2020,"May 2020","East","Low Income","25-29"
+30,"Pending","2020-12-03","80706.28","Average",True,"DevOps","California",2020,"Dec 2020","West","Medium Income","30-34"
+25,"Active","2020-07-01","99471.89","Average",True,"Cloud Tech","Texas",2020,"Jul 2020","South","Medium Income","25-29"
+40,"Pending","2020-09-16","64431.22","Poor",False,"DevOps","Florida",2020,"Sep 2020","East","Low Income","40+"
+40,"Pending","2023-11-17","52633.48","Good",False,"Admin","New York",2023,"Nov 2023","East","Low Income","40+"
+NULL,"Inactive","2020-08-23","88119.37","Good",True,"DevOps","New York",2020,"Aug 2020","East","Medium Income",NULL
+30,"Active","2024-05-14","55656.8","Good",True,"HR","Nevada",2024,"May 2024","West","Low Income","30-34"
+40,"Pending","2023-08-06","76941.36","Poor",True,"HR","Nevada",2023,"Aug 2023","West","Medium Income","40+"
+35,"Pending","2022-06-16","100897.49","Average",True,"HR","New York",2022,"Jun 2022","East","High Income","35-39"
+25,"Active","2023-01-05","62312.13","Good",False,"Cloud Tech","Nevada",2023,"Jan 2023","West","Low Income","25-29"
+NULL,"Active","2024-01-17","81137.46","Excellent",False,"Cloud Tech","Texas",2024,"Jan 2024","South","Medium Income",NULL
+30,"Inactive","2021-04-16","104528.27","Excellent",False,"DevOps","Nevada",2021,"Apr 2021","West","High Income","30-34"
+30,"Active","2022-02-08","112395.56","Good",False,"DevOps","Florida",2022,"Feb 2022","East","High Income","30-34"
+NULL,"Inactive","2021-12-13","79315.01","Poor",True,"Cloud Tech","Nevada",2021,"Dec 2021","West","Medium Income",NULL
+25,"Pending","2022-01-11","110391.17","Excellent",False,"Sales","Texas",2022,"Jan 2022","South","High Income","25-29"
+40,"Active","2021-07-20","53714.83","Excellent",True,"DevOps","Nevada",2021,"Jul 2021","West","Low Income","40+"
+40,"Active","2023-10-04","114587.11","Excellent",True,"Finance","New York",2023,"Oct 2023","East","High Income","40+"
+35,"Inactive","2021-11-15","93177.35","Average",False,"Admin","Florida",2021,"Nov 2021","East","Medium Income","35-39"
+25,"Inactive","2022-02-02","104516.55","Excellent",False,"Admin","Illinois",2022,"Feb 2022","Central","High Income","25-29"
+25,"Pending","2021-03-28","108210.15","Poor",True,"Admin","New York",2021,"Mar 2021","East","High Income","25-29"
+35,"Active","2024-07-31","80935.65","Excellent",False,"DevOps","California",2024,"Jul 2024","West","Medium Income","35-39"
+30,"Active","2024-03-04","107020.19","Excellent",False,"DevOps","California",2024,"Mar 2024","West","High Income","30-34"
+30,"Active","2020-09-23","118677.67","Excellent",False,"HR","New York",2020,"Sep 2020","East","High Income","30-34"
+25,"Inactive","2020-03-28","63744.57","Average",False,"Cloud Tech","Florida",2020,"Mar 2020","East","Low Income","25-29"
+25,"Pending","2021-02-13","62934.73","Good",False,"Sales","New York",2021,"Feb 2021","East","Low Income","25-29"
+30,"Pending","2021-12-13","74654.23","Excellent",True,"DevOps","California",2021,"Dec 2021","West","Medium Income","30-34"
+30,"Pending","2020-01-09","118150.59","Average",True,"HR","New York",2020,"Jan 2020","East","High Income","30-34"
+NULL,"Inactive","2023-11-30","91256.64","Average",False,"DevOps","Florida",2023,"Nov 2023","East","Medium Income",NULL
+30,"Inactive","2021-03-14","85997.57","Good",False,"HR","Florida",2021,"Mar 2021","East","Medium Income","30-34"
+25,"Pending","2020-10-05","84707.12","Excellent",False,"Finance","Texas",2020,"Oct 2020","South","Medium Income","25-29"
+NULL,"Active","2021-11-02","84559.9","Poor",False,"DevOps","Texas",2021,"Nov 2021","South","Medium Income",NULL
+NULL,"Pending","2024-09-18","81076.91","Poor",False,"DevOps","California",2024,"Sep 2024","West","Medium Income",NULL
+25,"Pending","2023-09-10","97356.31","Good",True,"Finance","Florida",2023,"Sep 2023","East","Medium Income","25-29"
+40,"Active","2024-02-27","114770.32","Good",True,"DevOps","Illinois",2024,"Feb 2024","Central","High Income","40+"
+35,"Active","2023-05-03","109082.07","Good",False,"Admin","California",2023,"May 2023","West","High Income","35-39"
+40,"Inactive","2024-04-15","99944.57","Poor",True,"DevOps","Florida",2024,"Apr 2024","East","Medium Income","40+"
+40,"Pending","2023-05-20","116509.72","Average",False,"HR","Florida",2023,"May 2023","East","High Income","40+"
+30,"Active","2021-05-28","84253.9","Excellent",True,"Finance","Texas",2021,"May 2021","South","Medium Income","30-34"
+25,"Active","2024-08-27","54776.01","Poor",False,"Cloud Tech","Nevada",2024,"Aug 2024","West","Low Income","25-29"
+40,"Inactive","2020-11-08","71192.68","Average",False,"Sales","Nevada",2020,"Nov 2020","West","Medium Income","40+"
+NULL,"Active","2021-08-24","96346.53","Average",True,"Finance","Florida",2021,"Aug 2021","East","Medium Income",NULL
+NULL,"Pending","2020-02-06","116680.63","Excellent",True,"HR","Illinois",2020,"Feb 2020","Central","High Income",NULL
+35,"Pending","2020-02-25","103563.58","Excellent",True,"HR","Nevada",2020,"Feb 2020","West","High Income","35-39"
+25,"Active","2023-06-02","81849.36","Excellent",False,"Finance","New York",2023,"Jun 2023","East","Medium Income","25-29"
+40,"Pending","2022-01-04","118288.91","Poor",False,"DevOps","New York",2022,"Jan 2022","East","High Income","40+"
+25,"Active","2021-07-28","59555.1","Good",True,"DevOps","Illinois",2021,"Jul 2021","Central","Low Income","25-29"
+40,"Active","2024-12-20","70661.31","Good",True,"Admin","California",2024,"Dec 2024","West","Medium Income","40+"
+NULL,"Active","2022-04-23","109988.16","Good",True,"Sales","New York",2022,"Apr 2022","East","High Income",NULL
+NULL,"Inactive","2020-01-30","101101.24","Poor",True,"Finance","Florida",2020,"Jan 2020","East","High Income",NULL
+30,"Pending","2021-03-31","112427.58","Good",True,"HR","Florida",2021,"Mar 2021","East","High Income","30-34"
+NULL,"Active","2020-03-23","119389.15","Poor",False,"Cloud Tech","Florida",2020,"Mar 2020","East","High Income",NULL
+40,"Inactive","2024-07-16","105861.23","Good",True,"Sales","Florida",2024,"Jul 2024","East","High Income","40+"
+40,"Pending","2024-03-22","50869.61","Average",True,"Admin","Texas",2024,"Mar 2024","South","Low Income","40+"
+30,"Pending","2024-03-10","90856.21","Average",True,"DevOps","Florida",2024,"Mar 2024","East","Medium Income","30-34"
+30,"Active","2024-06-05","111008.63","Excellent",True,"DevOps","Florida",2024,"Jun 2024","East","High Income","30-34"
+25,"Inactive","2022-12-23","52289.99","Poor",True,"Finance","Nevada",2022,"Dec 2022","West","Low Income","25-29"
+NULL,"Active","2024-06-01","97926.56","Average",True,"Sales","Illinois",2024,"Jun 2024","Central","Medium Income",NULL
+25,"Inactive","2024-12-23","53609.38","Good",False,"Sales","Nevada",2024,"Dec 2024","West","Low Income","25-29"
+NULL,"Inactive","2020-12-24","95372.09","Excellent",False,"Cloud Tech","California",2020,"Dec 2020","West","Medium Income",NULL
+30,"Pending","2020-08-20","95432.69","Excellent",True,"HR","New York",2020,"Aug 2020","East","Medium Income","30-34"
+30,"Inactive","2022-10-28","97615.87","Average",False,"HR","California",2022,"Oct 2022","West","Medium Income","30-34"
+35,"Inactive","2022-10-23","86867.78","Poor",False,"HR","Florida",2022,"Oct 2022","East","Medium Income","35-39"
+40,"Pending","2023-11-20","106615.71","Average",False,"Sales","California",2023,"Nov 2023","West","High Income","40+"
+30,"Active","2022-03-11","112856.21","Poor",False,"Finance","Texas",2022,"Mar 2022","South","High Income","30-34"
+25,"Active","2023-11-28","60356.78","Poor",True,"Admin","California",2023,"Nov 2023","West","Low Income","25-29"
+NULL,"Inactive","2022-05-03","117870.22","Excellent",False,"DevOps","Texas",2022,"May 2022","South","High Income",NULL
+40,"Inactive","2024-02-19","95127.91","Average",False,"HR","Florida",2024,"Feb 2024","East","Medium Income","40+"
+25,"Pending","2021-11-18","78818.42","Average",False,"Admin","Illinois",2021,"Nov 2021","Central","Medium Income","25-29"
+40,"Pending","2022-12-21","108933.55","Poor",True,"Sales","Nevada",2022,"Dec 2022","West","High Income","40+"
+NULL,"Active","2024-06-04","68200.52","Average",True,"Admin","California",2024,"Jun 2024","West","Low Income",NULL
+25,"Inactive","2022-07-22","116934.97","Good",True,"Admin","California",2022,"Jul 2022","West","High Income","25-29"
+NULL,"Active","2024-09-14","99567.78","Good",True,"HR","New York",2024,"Sep 2024","East","Medium Income",NULL
+30,"Active","2021-10-10","90216.76","Average",True,"Admin","Texas",2021,"Oct 2021","South","Medium Income","30-34"
+30,"Pending","2020-03-12","96588.73","Average",True,"Admin","Illinois",2020,"Mar 2020","Central","Medium Income","30-34"
+35,"Active","2022-12-28","71109.18","Poor",True,"Finance","Illinois",2022,"Dec 2022","Central","Medium Income","35-39"
+40,"Inactive","2020-11-15","50300.6","Good",False,"Admin","Florida",2020,"Nov 2020","East","Low Income","40+"
+35,"Pending","2023-09-27","60295.84","Good",False,"Finance","California",2023,"Sep 2023","West","Low Income","35-39"
+35,"Pending","2022-09-07","113012.21","Excellent",False,"DevOps","Texas",2022,"Sep 2022","South","High Income","35-39"
+35,"Pending","2024-09-18","65425.54","Poor",True,"Cloud Tech","Florida",2024,"Sep 2024","East","Low Income","35-39"
+25,"Active","2023-04-09","86850.37","Excellent",True,"Sales","Nevada",2023,"Apr 2023","West","Medium Income","25-29"
+30,"Pending","2024-10-05","81182.07","Good",True,"Cloud Tech","Texas",2024,"Oct 2024","South","Medium Income","30-34"
+NULL,"Inactive","2021-10-12","92222.03","Poor",True,"Finance","New York",2021,"Oct 2021","East","Medium Income",NULL
+35,"Pending","2024-10-14","79934.83","Average",True,"Finance","New York",2024,"Oct 2024","East","Medium Income","35-39"
+35,"Inactive","2022-07-01","111201.12","Poor",False,"HR","California",2022,"Jul 2022","West","High Income","35-39"
+40,"Active","2024-07-08","100960.05","Average",False,"Finance","California",2024,"Jul 2024","West","High Income","40+"
+30,"Active","2020-10-21","64544.87","Average",True,"Sales","Illinois",2020,"Oct 2020","Central","Low Income","30-34"
+25,"Active","2020-01-14","78662.24","Poor",True,"Sales","Florida",2020,"Jan 2020","East","Medium Income","25-29"
+30,"Pending","2023-03-09","102867.06","Average",True,"Sales","Florida",2023,"Mar 2023","East","High Income","30-34"
+40,"Inactive","2020-03-27","107595.95","Excellent",True,"HR","Illinois",2020,"Mar 2020","Central","High Income","40+"
+35,"Inactive","2020-09-11","95766.91","Average",True,"DevOps","Nevada",2020,"Sep 2020","West","Medium Income","35-39"
+30,"Pending","2021-05-16","51990.98","Excellent",True,"Finance","Nevada",2021,"May 2021","West","Low Income","30-34"
+25,"Inactive","2023-04-05","83634.01","Average",True,"Sales","Nevada",2023,"Apr 2023","West","Medium Income","25-29"
+30,"Active","2021-10-16","82273.08","Excellent",False,"Sales","Texas",2021,"Oct 2021","South","Medium Income","30-34"
+30,"Inactive","2022-05-09","94537.3","Good",True,"Cloud Tech","California",2022,"May 2022","West","Medium Income","30-34"
+35,"Pending","2020-06-06","85970.65","Good",True,"HR","Illinois",2020,"Jun 2020","Central","Medium Income","35-39"
+25,"Pending","2021-10-22","111071.02","Excellent",False,"Sales","New York",2021,"Oct 2021","East","High Income","25-29"
+35,"Pending","2022-01-12","56708.34","Excellent",False,"DevOps","Nevada",2022,"Jan 2022","West","Low Income","35-39"
+25,"Inactive","2024-10-12","76343.56","Excellent",False,"Finance","Florida",2024,"Oct 2024","East","Medium Income","25-29"
+30,"Inactive","2024-12-16","99424.14","Excellent",False,"Sales","Nevada",2024,"Dec 2024","West","Medium Income","30-34"
+35,"Inactive","2024-04-13","57656.74","Good",True,"DevOps","Florida",2024,"Apr 2024","East","Low Income","35-39"
+40,"Pending","2020-04-24","77396.94","Excellent",True,"Sales","New York",2020,"Apr 2020","East","Medium Income","40+"
+NULL,"Inactive","2021-10-18","54299.68","Average",False,"DevOps","California",2021,"Oct 2021","West","Low Income",NULL
+25,"Inactive","2022-04-23","74588.85","Average",False,"Finance","California",2022,"Apr 2022","West","Medium Income","25-29"
+30,"Pending","2020-06-22","113727.23","Poor",False,"DevOps","California",2020,"Jun 2020","West","High Income","30-34"
+25,"Active","2023-01-07","72828.18","Good",False,"HR","New York",2023,"Jan 2023","East","Medium Income","25-29"
+NULL,"Inactive","2020-02-11","98717.09","Poor",False,"Sales","Florida",2020,"Feb 2020","East","Medium Income",NULL
+35,"Pending","2020-06-29","63049.22","Good",True,"Finance","Illinois",2020,"Jun 2020","Central","Low Income","35-39"
+35,"Pending","2023-02-15","115229.12","Excellent",True,"HR","California",2023,"Feb 2023","West","High Income","35-39"
+25,"Pending","2023-06-15","60687.63","Excellent",False,"DevOps","Illinois",2023,"Jun 2023","Central","Low Income","25-29"
+30,"Inactive","2022-03-19","67492.73","Good",True,"Finance","Illinois",2022,"Mar 2022","Central","Low Income","30-34"
+NULL,"Inactive","2023-10-25","77821.79","Average",False,"HR","Illinois",2023,"Oct 2023","Central","Medium Income",NULL
+35,"Active","2022-07-14","69146.95","Poor",False,"DevOps","Texas",2022,"Jul 2022","South","Low Income","35-39"
+35,"Inactive","2022-03-12","90224.82","Good",True,"Admin","Nevada",2022,"Mar 2022","West","Medium Income","35-39"
+NULL,"Pending","2024-06-11","62603.98","Poor",False,"Finance","Illinois",2024,"Jun 2024","Central","Low Income",NULL
+35,"Active","2024-06-10","71148.27","Average",False,"Sales","Nevada",2024,"Jun 2024","West","Medium Income","35-39"
+40,"Inactive","2022-09-21","52031.74","Excellent",True,"Admin","California",2022,"Sep 2022","West","Low Income","40+"
+NULL,"Pending","2020-02-06","116680.63","Good",False,"HR","Illinois",2020,"Feb 2020","Central","High Income",NULL
+30,"Pending","2021-05-16","51990.98","Excellent",True,"Finance","Nevada",2021,"May 2021","West","Low Income","30-34"
+30,"Inactive","2021-11-07","100215.06","Good",True,"Cloud Tech","Texas",2021,"Nov 2021","South","High Income","30-34"
+40,"Active","2023-10-04","114587.11","Average",False,"Finance","New York",2023,"Oct 2023","East","High Income","40+"
+30,"Inactive","2024-12-16","71318.79","Good",True,"HR","Florida",2024,"Dec 2024","East","Medium Income","30-34"
+30,"Pending","2021-02-22","77764.24","Average",False,"DevOps","Illinois",2021,"Feb 2021","Central","Medium Income","30-34"

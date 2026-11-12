@@ -26,7 +26,7 @@ A data pipeline project: a messy employee dataset is loaded into PostgreSQL, cle
   - drops PII columns (employee ID, first and last name, email and phone)
   - converts `remote_work` to boolean and `join_date` to a date, treating `N/A` and blanks as null
   - adds `year` and `month_year` columns from the join date
-  - adds a PL/pgSQL function `get_region_by_state` that groups states into regions (West, Central, East)
+  - adds a PL/pgSQL function `get_region_by_state` that groups states into regions (West, Central, East, South, with Other as a fallback)
   - adds `income_level` and `age_group` categories
 - **Exported the result** as `cleaned_employee_data_set.csv`.
 
